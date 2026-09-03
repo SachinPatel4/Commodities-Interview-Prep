@@ -32,7 +32,12 @@ concurrency:
 jobs:
   brief:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
+    # Subscription auth for the analysis tier. Generate with `claude setup-token` locally
+    # and store as the CLAUDE_CODE_OAUTH_TOKEN repo secret; it lasts a year. Without it
+    # the run still produces the data-only Tier 0 brief.
+    env:
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
@@ -43,6 +48,12 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Install Claude Code CLI
+        if: env.CLAUDE_CODE_OAUTH_TOKEN != ''
+        run: |
+          curl -fsSL https://claude.ai/install.sh | bash
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
 
       - name: Resolve date
         id: d
@@ -58,6 +69,8 @@ jobs:
       - name: Fetch headlines
         run: python scripts/fetch_news.py --date "${{ steps.d.outputs.date }}"
 
+      # --tier1 auto: the Claude CLI if the step above installed it (billed to the
+      # subscription), else ANTHROPIC_API_KEY if that secret is set, else Tier 0.
       - name: Build brief
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

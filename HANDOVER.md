@@ -17,7 +17,8 @@ Do these in order. About 15 minutes.
 2. **Rename the default branch to `main`** (optional but tidy): Settings, General, Default branch, pencil icon.
 3. **Enable Actions**: Actions tab, "I understand my workflows, go ahead and enable them" if asked.
 4. **Add secrets**: Settings, Secrets and variables, Actions, "New repository secret":
-   - `ANTHROPIC_API_KEY` from https://console.anthropic.com. Turns on the analysis tier of the brief (five stories, why they matter, questions, view of the day). Costs a few cents a day. Without it you still get prices, spreads and headlines.
+   - `CLAUDE_CODE_OAUTH_TOKEN`. Turns on the analysis tier of the brief (five stories, why they matter, questions, view of the day) and bills it to your Claude subscription, not an API key. Install the CLI with `curl -fsSL https://claude.ai/install.sh | bash`, run `claude setup-token`, approve in the browser, and paste the printed token in as the secret. Lasts a year; needs a Pro, Max, Team or Enterprise plan. Without it you still get prices, spreads and headlines.
+   - `ANTHROPIC_API_KEY` from https://console.anthropic.com is the alternative, billed as API usage at a few cents a day. Set one or the other, not both.
    - `OILPRICEAPI_KEY` from https://www.oilpriceapi.com/auth/signup (free). Adds JKM, coal, EU carbon and source-timestamped oil and gas prices.
 5. **Enable Pages**: Settings, Pages, Source = "GitHub Actions".
 6. **Run both workflows once**: Actions tab, "Daily commodities brief", "Run workflow"; then "Dashboard (GitHub Pages)", "Run workflow". Two minutes later:

@@ -22,7 +22,8 @@ Handing it to someone else? Follow [HANDOVER.md](HANDOVER.md).
 1. **Fork this repo** to your own GitHub account (keep it public: Actions minutes are free).
 2. **Enable Actions** on your fork (Actions tab, "I understand my workflows, go ahead and enable them").
 3. **Optional but recommended, add secrets** (Settings, Secrets and variables, Actions):
-   - `ANTHROPIC_API_KEY` from [console.anthropic.com](https://console.anthropic.com). Turns on the analysis tier of the brief (stories, questions, view). Without it you still get prices, spreads and headlines.
+   - `CLAUDE_CODE_OAUTH_TOKEN` - turns on the analysis tier of the brief (stories, questions, view) and bills it to your Claude subscription rather than an API key. Install the Claude Code CLI (`curl -fsSL https://claude.ai/install.sh | bash`), run `claude setup-token`, and paste the printed token in as the secret. It lasts a year; needs a Pro, Max, Team or Enterprise plan. Without it you still get prices, spreads and headlines.
+   - `ANTHROPIC_API_KEY` from [console.anthropic.com](https://console.anthropic.com) - the alternative to the token above, billed as API usage. Set one or the other, not both; the token wins.
    - `OILPRICEAPI_KEY` from [oilpriceapi.com](https://www.oilpriceapi.com/auth/signup) (free tier). Adds source-timestamped Brent, WTI, Henry Hub, TTF, JKM, coal and EU carbon.
    - Optional variable `BRIEF_MODEL` (Settings, Variables) to override the model, default `claude-opus-5`.
 4. **Run it once by hand**: Actions, "Daily commodities brief", "Run workflow". A file appears in `briefs/` a few minutes later. From then on it runs daily at 06:30 UK time, with a retry slot at 09:00 because GitHub sometimes skips or delays scheduled runs. A manual run replaces that day's brief; scheduled runs never overwrite one.
@@ -76,8 +77,19 @@ pip install -r requirements-dev.txt
 python -m pytest tests -q                 # spread maths and pipeline tests, no network
 python scripts/fetch_prices.py            # Yahoo futures + spreads -> data/prices-DATE.{json,md}
 python scripts/fetch_news.py              # headlines by sector -> data/news-DATE.json
-python scripts/build_brief.py             # -> briefs/DATE.md (analysis tier if ANTHROPIC_API_KEY is set)
+python scripts/build_brief.py             # -> briefs/DATE.md
 ```
+
+`build_brief.py --tier1` picks the analysis-tier backend:
+
+| Value | What it uses |
+|---|---|
+| `auto` (default) | the `claude` CLI if it is on your PATH, else `ANTHROPIC_API_KEY`, else Tier 0 only |
+| `claude-code` | the `claude` CLI, on your Claude subscription. No API key; `ANTHROPIC_API_KEY` is stripped from the child process so a stray key cannot move the run onto API billing |
+| `api` | the Anthropic API via `ANTHROPIC_API_KEY` |
+| `off` | data-only Tier 0 (same as `--no-ai`) |
+
+So with the CLI installed and logged in (`curl -fsSL https://claude.ai/install.sh | bash`, then `claude`), a plain `python scripts/build_brief.py` writes a full analysis-tier brief on your subscription with no key set anywhere. Tier 1 never loses the data: if the backend fails, the Tier 0 brief is written with the error in an HTML comment.
 
 Prices are Yahoo Finance futures, about 15 minutes delayed, and are indicative only. Official
 LME prices are not free; COMEX copper is used as the proxy and labelled as such.
@@ -90,7 +102,7 @@ LME prices are not free; COMEX copper is used as the proxy and labelled as such.
 - **A ticker stops working:** the brief shows `n/a` and lists the error at the bottom of the prices table. Update the ticker in the instrument table.
 - **Change the dashboard:** edit `docs/index.html`; pushing it redeploys Pages. Preview locally with the `--inline` command above and open `site/preview.html`.
 - **Pause it:** Actions tab, select the workflow, "Disable workflow". Or delete the `schedule:` block. Same for the dashboard workflow.
-- **Cost:** the free tier is free. The analysis tier uses your own Anthropic key: one run a day with up to 15 web searches costs a few cents to a few tens of cents depending on the model.
+- **Cost:** the free tier is free. The analysis tier runs against your Claude subscription through `CLAUDE_CODE_OAUTH_TOKEN` (one run a day, counted as normal Claude Code usage), or against an API key if you set `ANTHROPIC_API_KEY` instead, which costs a few cents to a few tens of cents a day depending on the model.
 
 ## Data sources
 
