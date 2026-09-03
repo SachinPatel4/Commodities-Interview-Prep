@@ -1,15 +1,8 @@
 {
   "date": "2026-09-03",
-  "fetched_at_utc": "2026-09-03T22:39:08+00:00",
+  "fetched_at_utc": "2026-09-03T22:41:39+00:00",
   "sectors": {
     "Oil": [
-      {
-        "title": "Brent oil price above $96 per barrel after Iran fires missiles at Kuwait - CNBC Africa",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGRDeDNYdzhNZHBWWUkwQnFPX2ExNDlPRjNBUkpUbnhyWE1MVGtZYnh5RWxPWk5vYnFsRHlLbFA4REI5Z2ZaeUtOUTk4RzRHNUtOdGpiQVdrM1FjUkw2NU9ENlFfVDY4Vld3RFE3OU9GdHFuX3RrYWFTdThVeGdWLWFtbEI4ZUhtRE50UHdRcVVHOFRneVlJQkxpVXFXMWVaTkc0ZElR?oc=5",
-        "published": "Thu, 03 Sep 2026 20:41:53 GMT",
-        "source": "CNBC Africa",
-        "query": "Brent crude oil prices"
-      },
       {
         "title": "Oil Prices Rise Amid Middle East Escalation and Supply Concerns - Global Banking & Finance Review",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS3YyZnlQcWVZUHpqZ1hrUUNhRGM1N3hoQkRpMXJNTHF5VEZoeGJpRjJHYVhrbmo2emxyUXZudEZNc0NsOU0xSXhrS25LLV9pamppZ2FuSzhlTmtXdkhhaEhLeXc2RzRGUUlLcVQ0Si14NFBoOWNvaTdzYm1mT05aV0p1Vk5pZw?oc=5",
@@ -60,10 +53,10 @@
         "query": "Russia oil sanctions tanker"
       },
       {
-        "title": "Royal Marines Seize Russian Shadow Fleet Tanker in Dramatic English Channel Raid | Afterburner - MiGFlug's Magazine - MiGFlug",
+        "title": "Royal Marines Seize Russian Shadow Fleet Tanker in Dramatic English Channel Raid | Afterburner - MiGFlug's Magazine - migflug.com",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQkgxTndGZ05OLXREcDFDcXMwci1uSkN4WTVtZlRRTnRqYUhNX0ZHQTl3X3dGakFWOXA4T1NoQVNrQ0lSWGRJdEF4dlU3Nmc0czBuNm5CVkpOZEVEekhuUGFUaTAxY3RuQnVUZ1RZY2xwakhhRUpQMURVN2RjLTFvYWlsNzhKZUVZNzgyZmprZmFYX2NScXhpV09ZUW51LWZYVnhPc3c0MS1BMjQ1TzJNbTM1amxjOXc?oc=5",
         "published": "Thu, 03 Sep 2026 15:20:44 GMT",
-        "source": "MiGFlug",
+        "source": "migflug.com",
         "query": "Russia oil sanctions tanker"
       },
       {
@@ -71,6 +64,13 @@
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHR2NWdsTTVuZlVmRHFGMW5ZR3VQd1FYdWtSZlBHcUh1dGNxOE5adDI3UWNvWVdGcEJ1X01icHNsZ2EzOWZubFVaUjRWcFFyQnFfVW5ReEZzQ1ZlVDk4Sk04YTJoOGEtRmU2Z1I0N2Z0THU5MkJSakwzWTZ0c1dSZ1h6eG9ITWVLeHZsbUh4OU1BOFJSck5WSnBrbVBWbkptRlJVbWFfaVpsbXk3R003Y2phbVJ2ekdu?oc=5",
         "published": "Thu, 03 Sep 2026 15:15:00 GMT",
         "source": "Exchange Rates Org UK",
+        "query": "Brent crude oil prices"
+      },
+      {
+        "title": "Oil prices little changed after Iran fires missiles at Kuwait - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1dVOUlGV2F6SHFhU0lGa0xCMFl0R3hmb25KTEpBVGFnUFlYcjRmSnR1RF9FelQ3THNaMjVRMERZYTRLYTItYTVyc3QtUVFoSFZoQ1dCU3pvQUpjdVRPZ3hPbldqODNyNTktdkhhbU9Oc1VqU25reEdZblhSMlg5QtIBhgFBVV95cUxNWVlmRTVYNWxjWElZQ19ramVxV0l2Z2wzbll4OXRGc2o3bHBjeEduTkd5VDF3Z2hoVS1lbjE5emNLb1MzSENyMnh6NTE5NmpqaWQtdUF2ZmNJeEo1VUxJbGU1Y2UyQWNHQl9LamhiSWY2aU5CdU11dDIweVoxTVIwWnlNQVBuUQ?oc=5",
+        "published": "Thu, 03 Sep 2026 13:28:22 GMT",
+        "source": "CNBC",
         "query": "Brent crude oil prices"
       }
     ],
@@ -118,10 +118,10 @@
         "query": "cobalt DRC export"
       },
       {
-        "title": "Netherlands moves billions in gold to London amid growing geopolitical unrest - saudigazette.com.sa",
+        "title": "Netherlands moves billions in gold to London amid growing geopolitical unrest - Saudi Gazette",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxeFUxWHFpRm5YTlRrcWl4NUJJZUFydjJEaGFRU2ZwV1ZQMVduajdNN1hNZU5EZmg2a1g1Qjl6dUlxYkFBOUJZOTl1eHU0V3hnaGYtTw?oc=5",
         "published": "Thu, 03 Sep 2026 06:05:00 GMT",
-        "source": "saudigazette.com.sa",
+        "source": "Saudi Gazette",
         "query": "aluminium tariffs"
       },
       {
@@ -183,10 +183,10 @@
         "query": "TTF gas price Europe storage"
       },
       {
-        "title": "Natural gas price hits \u20ac75 per MWh, matching 2022 crisis levels - ERR",
+        "title": "Natural gas price hits \u20ac75 per MWh, matching 2022 crisis levels - news.err.ee",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUFSTHVkUVBGMElWc0FwajlIc3ZFWnl5NUNaTENoNWNwX0IxUThiTndCd0R3N0IyQm04Z3M5QXZNMFA1SUJ5MmNnMmpEUUNsd3dnMGdjTVVpcFJXWFV4aFJ2MUE2Vk1iNXgxR2NZTUZSUVpObnhYbldqeUtMX1RXR1p3NV9lQWpRN3RmdjFCcnJKWmRmQzRZ?oc=5",
         "published": "Thu, 03 Sep 2026 14:01:00 GMT",
-        "source": "ERR",
+        "source": "news.err.ee",
         "query": "TTF gas price Europe storage"
       },
       {
@@ -313,10 +313,10 @@
         "query": "corn soybean prices weather Brazil"
       },
       {
-        "title": "Crops Analysis | Soybeans firm while corn and wheat slip - Pro Farmer",
+        "title": "Crops Analysis | Soybeans firm while corn and wheat slip - profarmer.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0JYT2paeHM5SlYwN3RVclBQNXRQczlYaHg2SENCb2VCZXZXWHZsUmxqVlI3eE9kcU80dUp2Slg5T0JUWFExNEdJekdDSFBhaWJKVmd3WmRxT2tVb1Q0ckdFQmM5V1dScmQ2Tkk4VFVLajNWVFpfWnp0dHYxQTBBa0paNEQ1eldMTEJUY0wxOVhtMWhjSHBJVjlUX2pSaXlNMTlGZzhwZFJyT01WVzlN?oc=5",
         "published": "Thu, 03 Sep 2026 18:56:00 GMT",
-        "source": "Pro Farmer",
+        "source": "profarmer.com",
         "query": "corn soybean prices weather Brazil"
       },
       {
@@ -327,10 +327,10 @@
         "query": "wheat prices Black Sea"
       },
       {
-        "title": "Russian Black Sea attacks, low Danube waters push EU to seek alternative routes for Ukrainian grain exports - Euromaidan Press",
+        "title": "Russian Black Sea attacks, low Danube waters push EU to seek alternative routes for Ukrainian grain exports - euromaidanpress.com",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xN0pLbGNvSDBicW5PcVFDUFVyNEVXbWktRWJ2MmlVeXB6anhtYWxOQjBUb2dKV1hsM3NhSzNUUW9Uc3UxVkxXd0ZNaUYyUHBnS3IzQVNDdjlZZzR4dkF3QlluQ0dKcnZtdzBqeC1CNWZ2YnNFUGRpX3VXQQ?oc=5",
         "published": "Thu, 03 Sep 2026 14:38:24 GMT",
-        "source": "Euromaidan Press",
+        "source": "euromaidanpress.com",
         "query": "wheat prices Black Sea"
       },
       {
@@ -378,6 +378,13 @@
         "query": "Federal Reserve rate decision commodities"
       },
       {
+        "title": "EEX CEGH VTP EGSI Natural Gas Day Futures (Sep 2026 D03) Trade Ideas \u2014 EEX:G803U2026 - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX09TNFBPQ3FPaWxzYVdZQXVHalZwZVBVQzFlSjJoQ05vcU9xR0JLSm90TW9SbVlmSG0yOTlmYkl1YndmZ3FzbTk5bURPLThhU1EwaTNDM2g0Q0ZUMjFqcUQyZzBBaVpYS0ZMX2VsdzF3SDI1Tk9fODc5NzRpbTc1aV9DUQ?oc=5",
+        "published": "Thu, 03 Sep 2026 17:06:35 GMT",
+        "source": "TradingView",
+        "query": "US dollar index commodities"
+      },
+      {
         "title": "Canadian Dollar extends gains on hawkish BoC message, softer US Dollar - FXStreet",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjduQ3hzVXVFTjNUQ0VhVDB0V0lfcVZmWXd5LWhOQjd4aHpuei10S0xjcGNfVFd6X1RPOEVseG5KRVJzaXFRb1NPWlNUTVBscV94ZnJJU04yWFVuOVFNZm9jZmJFRHRmUGhDeE9oWjNHalpnQlZOQmpKb1VRYmJmMHFHNmdSOGJSQ1ladmdjUm9yWWZiYy1kUWJkaTlteWtoYWk0SENkOEJITVI5cFp2V0FB?oc=5",
         "published": "Thu, 03 Sep 2026 15:15:04 GMT",
@@ -385,10 +392,10 @@
         "query": "US dollar index commodities"
       },
       {
-        "title": "NFP Preview: How the Jobs Report Could Force the Fed\u2019s Hike or Hold Decision - FOREX.com",
+        "title": "NFP Preview: How the Jobs Report Could Force the Fed\u2019s Hike or Hold Decision - forex.com",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSWFLSERWeVN3M1hTeEdwNFF1czJXZjZOeGkzRWJIYTBaRXZmbmpmY2NNbnZPSzhzbmtna0dyQThvYlItb1pNekN5bkVYWTkwd0pJSExrUGtnWmxtSVpXckFNbVRFVHpWMm1TdEI1T0NZQUxiYWdzdWpmSmxwdW82R2oxTDctQnNaN3BsajY1emFSN1BLeDlEUWphWGc2TDFuTU9aMmlzQ19jenlvQ3U2VHEtOWNDckVrUkVwaFlTMNIBywFBVV95cUxOc21TUmRaTjEwSlJOTzFMMi0zLXpLYlRkb19uVVJxQzg4WGhmNDd3U1dFdnRSVlN4TWFENlJNc0FteWMtRzVZRzZEMk9KYjJBTVdRMl9EVUk2ai1wVWY2T0xzQlYtcmFUaUY1SmplaUxmTnRPM2ctRXZNV19fSDBpNVdHTE5Hb3lfTnVkZ0FjbWZLWlhrVFJmQ2EweTBuLUZvbzh6Wno5SEZlVEtJS2lkTV9oNGt4R1l4RkNFdVBfWmpta0VvU25NV0s3QQ?oc=5",
         "published": "Thu, 03 Sep 2026 14:51:25 GMT",
-        "source": "FOREX.com",
+        "source": "forex.com",
         "query": "Federal Reserve rate decision commodities"
       },
       {
@@ -399,17 +406,10 @@
         "query": "Federal Reserve rate decision commodities"
       },
       {
-        "title": "Gold upside remains limited by Fed rate hike risks and Iran war; traders await US CPI for next direction - investinglive.com",
+        "title": "Gold upside remains limited by Fed rate hike risks and Iran war; traders await US CPI for next direction - investingLive",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmM3WFE1ZmZ6dDBlZW9UMVA0LUlXeUQ2ZXY0NFQ2WkhoVGNzVDRjREpXYlR2cVROcTNNNVFRdzlBa0JHNmNLcXNJYXF1bzJjcThMSmhEaG1HM3BfNkJneEJXd1J3VnJJNFNCaS1Pd21pNU9heXN6VER3ay12dTBjYVlWbkZjUHkxUHlaWlY0cXZGSUJONjR1SHBmS3JIUzBGSEZBX1FIUXFMdklwTjhRRDZHZmZ3aTltWm95VlJnSnB3WDFIWXRBQVg3WTlmd09TRmRfMndXTGVMQQ?oc=5",
         "published": "Thu, 03 Sep 2026 10:02:27 GMT",
-        "source": "investinglive.com",
-        "query": "Federal Reserve rate decision commodities"
-      },
-      {
-        "title": "Is SHIB Still a Meme Coin? Decoding the Impact of the 2026 SEC/CFTC Commodity Status - tradingkey.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMHlfdlJTMklFQ1FmN3pKaFNoclFvb240d2lzYmJvdGo3Q1haVGpzUDBOZ2RYZFFLc25vYWlQQzluTm1OTG9FOTFaeE82TnJhTVFQZVBGZlJvcWgtRkVvUTlKRU5pQlROS1EzZEt1V0pMVUNuVkRidUtYZFhEeGxPT2JJcjdEU1hQa0lhTnh0Ykh3c01nRmRTaW93TUwxUWJUZU1ReUZXUlFUa2xVckIw?oc=5",
-        "published": "Thu, 03 Sep 2026 09:37:10 GMT",
-        "source": "tradingkey.com",
+        "source": "investingLive",
         "query": "Federal Reserve rate decision commodities"
       },
       {
@@ -427,10 +427,10 @@
         "query": "US dollar index commodities"
       },
       {
-        "title": "Palladium (XPDUSD) Surges on Sep 3: What Lie behind the Move? - tradingkey.com",
+        "title": "Palladium (XPDUSD) Surges on Sep 3: What Lie behind the Move? - TradingKey",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2NhWHpabzNQMjk5M202UmRRZThVaURwR3ZNQ01rRkZMUG5pNkExV1VVNkE1REtQSjlIU0JNeVJQaUNYR0lmdTkwMEVTaEpqeXo5TDJFanRUcDNmVFMyYmpsS3ZNT1pGVmVZNnJRa21qRG1QMFZNYnIwU3ZwRlZ3UUdHOHRpbWtsQ3BkeHhn?oc=5",
         "published": "Thu, 03 Sep 2026 07:05:13 GMT",
-        "source": "tradingkey.com",
+        "source": "TradingKey",
         "query": "US dollar index commodities"
       }
     ],
@@ -508,6 +508,13 @@
         "query": "Trafigura OR Vitol OR Mercuria OR Gunvor trading profit"
       },
       {
+        "title": "Iraq oil exports surge, India set to benefit as Hormuz flows ease - ET EnergyWorld",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPalBzbjZEWERjNXlXY0Jac2JoSXdqZU0zNnJIMWQ2MUNnZmpCYnFFc3YtLWV1NktoaXZOZkNySnF2SG5XT3pFMnhVQjVVZHlUS0o5andleGVvSHlpd2Jsem1HUjYyUHhRRm1NQXlOYWFlQlNXNVlOTjZ5enJCUnVCd0N1UFJhd2djVFUtSTBtVlVxTXVNQkw0emlqZ0habGF3NTlkUjFIZk1mUFZfdjdOa05MaTlnX055UmRDSl9EbkJqTkxMV2IwaHhjS2lkaU9PZGMzSEJ30gHWAUFVX3lxTE9qUHNuNkRYRGM1eVdjQlpzYmhJd2plTTM2ckgxZDYxQ2dmakJicUVzdi0tZXU2S2hpdk5mQ3JKcXZIbldPekUyeFVCNVVkeVRLSjlqd2V4ZW9IeWl3Ymx6bUdSNjJQeFFGbU1BeU5hYWVCU1c1WU5ONnl6ckJSdUJ3Q3VQUmF3Z2NUVS1JMG1WVXFNdU1CTDR6aWpnSFpsYXc1OWRSMUhmTWZQVl92N05rTkxpOWdfTnlSZENKX0RuQmpOTExXYjBoeGNLaWRpT09kYzNIQnc?oc=5",
+        "published": "Thu, 03 Sep 2026 02:57:56 GMT",
+        "source": "ET EnergyWorld",
+        "query": "Trafigura OR Vitol OR Mercuria OR Gunvor trading profit"
+      },
+      {
         "title": "Discounts and Hormuz transit approval send Iraqi crude exports soaring - Baird Maritime",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3I0ekFDWmVQNU1mWjQxYlJpbnk5bTFpZ3BXQlJhRVdfNExTeF9WWE9RVHJPVVM3MHZPbWJ2NW50RjNUV1h1RFBzV09aUG8yX1FGVGI1RGpYZGdCcXAyVHdpY2Y4NWxyUVpMcjBpbXI3TWtReEhnVTdwWXlXVG13d1ozQUxER3k5Qmo1d2NvRG9sR1lVRVJCd2ZYUnpPREZ5U21xM05WWm1teG9GQWFENWlubW5TU2s2ejQ1NFhwUlBXLTRtTUHSAcYBQVVfeXFMTk9yNHpBQ1plUDVNZlo0MWJSaW55OW0xaWdwV0JSYUVXXzRMU3hfVlhPUVRyT1VTNzB2T21idjVudEYzVFdYdURQc1dPWlBvMl9RRlRiNURqWGRnQnFwMlR3aWNmODVsclFaTHIwaW1yN01rUXhIZ1U3cFl5V1Rtd3daM0FMREd5OUJqNXdjb0RvbEdZVUVSQndmWFJ6T0RGeVNtcTNOVlptbXhvRkFhRDVpbm1uU1NrNno0NTRYcFJQVy00bU1B?oc=5",
         "published": "Wed, 02 Sep 2026 17:52:07 GMT",
@@ -531,13 +538,6 @@
       {
         "title": "Mercuria Launches Successor Funds as FY2026 Profits Dip on Portfolio Valuation Losses - TipRanks",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdThlTHgzYlkwOFFMWmNjcmpfRl9fdWpiSFhfUVBUUXRqOGk4RHFxb2lMelprZEhwOC12am5fSWNRdktQbDlVTmdJS2ZqN1pmbFBuM05pLWV3UVNESk1pbkhJblJLQUxJTC1TRTVnNlVlTWlRckxrV0ZtdnVZVHpzTVU3dnM4QjJGc1A1OEFtSzlGWWJFZ3NKNkJkZ0VfSTk3QzhPdHhHWDNsUmJ2amtISkRWcm1IS2MxMll4Y25RYmtaTWFnbGxUMG1tODI1cEwtS0N3?oc=5",
-        "published": "Tue, 01 Sep 2026 07:36:11 GMT",
-        "source": "TipRanks",
-        "query": "Trafigura OR Vitol OR Mercuria OR Gunvor trading profit"
-      },
-      {
-        "title": "Mercuria Holdings Swings to Profit in First Half but Maintains Lower Full-Year Outlook - TipRanks",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVXFFUk5SV3RJN19tZ1VKVXl2WGQ1bnZSU0dqR2U3UnotRXJnaXQwbm9OTktRRXRJUi1QbUdNSW11WlRfUG43ZVFxSE1icy1PelZOMUlXTklxZUp3RXA0NW9Ua2FnRHd0TVhvWndDNy1RNjNxYWlkeGNyRGNLQU1pdEV4RWNjQnoxaUtpc1ljY1dSMkVCVTVRVkN3UjhaNm1abFlqUnhYakJoZjBKU3NEeGgwMWdTb2xqYXB6RWJpUWl6Qy1IZ3Zibk9aZmRvVlV5Mm13eg?oc=5",
         "published": "Tue, 01 Sep 2026 07:36:11 GMT",
         "source": "TipRanks",
         "query": "Trafigura OR Vitol OR Mercuria OR Gunvor trading profit"
