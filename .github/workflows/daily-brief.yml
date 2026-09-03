@@ -95,12 +95,26 @@ jobs:
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then FORCE="--force"; fi
           python scripts/build_brief.py --date "${{ steps.d.outputs.date }}" $FORCE
 
+      # briefs/ and data/ are regenerated wholesale each run, so a plain rebase onto a
+      # concurrent run's commit conflicts on every one of them. This run's output is the
+      # newer of the two, so replay it with -X theirs ("theirs" = the commit being
+      # replayed) and retry the push a few times.
       - name: Commit and push
         run: |
+          set -euo pipefail
+          BRANCH="${{ github.ref_name }}"
           git config user.name "commodities-brief-bot"
           git config user.email "commodities-brief-bot@users.noreply.github.com"
           git add briefs data
           if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
           git commit -m "brief: ${{ steps.d.outputs.date }}"
-          git pull --rebase origin "${{ github.ref_name }}"
-          git push origin "HEAD:${{ github.ref_name }}"
+          for attempt in 1 2 3; do
+            if git push origin "HEAD:$BRANCH"; then
+              echo "pushed on attempt $attempt"; exit 0
+            fi
+            echo "push rejected; replaying onto latest $BRANCH"
+            git fetch origin "$BRANCH"
+            git rebase -X theirs "origin/$BRANCH" || { git rebase --abort; exit 1; }
+          done
+          echo "could not push after 3 attempts" >&2
+          exit 1
