@@ -177,6 +177,10 @@ def main() -> int:
         else:
             backend = "off"
 
+    print(f"tier1 backend: {backend}"
+          f"{' (claude CLI: ' + (claude_cli() or 'not found') + ')' if backend == 'claude-code' else ''}",
+          file=sys.stderr)
+
     prices = load(DATA_DIR / f"prices-{a.date}.json")
     news = load(DATA_DIR / f"news-{a.date}.json")
     base = tier0(a.date, prices, news)
