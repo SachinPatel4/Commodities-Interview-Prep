@@ -1,90 +1,139 @@
 {
   "date": "2026-09-30",
-  "fetched_at_utc": "2026-09-30T11:15:53+00:00",
+  "fetched_at_utc": "2026-09-30T14:37:00+00:00",
   "sectors": {
     "Oil": [
+      {
+        "title": "OPEC+ Leans Toward Holding November Output Targets Steady as Middle East Supply Recovery Takes Center Stage - finance.biggo.com",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYZ1NweHBCNGNDZzVZNU9mMXdpcjlDZG5lZm4xTm1TenNaSEMtTWhfbWE0TThHUEFfT0RQTHlnSS1oNEJGV1RRYjZlbTVJZFdFdndGSXQycWwteWp3TWZieXUtYkZGUWt4bFAtVzRaWEJCWnRsd2c?oc=5",
+        "published": "Wed, 30 Sep 2026 13:35:00 GMT",
+        "source": "finance.biggo.com",
+        "query": "OPEC+ output decision"
+      },
+      {
+        "title": "Brent crude oil price today: Why are oil prices rising as Saudi exports recover? | Hindustan Times - Hindustan Times",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd0VFcUdEWk5MMlNVMEVsdUtJek5GWXB1d0FJUTNxS1VLVVpGVXd2MzVCVi1WMm5sM0FPZjlQdjZXVjlhd1J3ZlBRTXJyLUVNdmdSaHRWZkpuZlQyLVI1YjZTV20zTU0wNHNVdzQtTEdGR0VlSU9BeWNJbjByYlVKOWk4NHdpbnRfME1Hb1ZSUl9vT1ltLS04X3FpWm02SXpRbm1rQ0h3R0g4dzlBWkpLS2R6MTZ4SVpJR0JxRklVYzlld05zeEE5aHFrVG5HQ2xzMzBPYjZyZXlzOU9KWGRvS0czb9IB6AFBVV95cUxNWDY5ekU5Z2daWV9tR1o4eFBpVVcyUlRMOW4tcjhzaTlWQkdGcFVHdzZwbEhsdXZISnUzaFUtZW1XdjlEWlhxZjVjREVMd0F3TWVKc2pCdjFCYVhnZlA2ckdQUHdRYmtUWFlhWGlBM090ZVRSY3hzeENMOUJKX1BjVlp3d0FaSWpEeXRlQi1qczhCVXlEVE9SLWhQQ1N6cjlXU3V3dUZWS3c4QmNqLVc3WF8yS0JrR05IanZaTE9uS3RzODBqanBpTnBxcXZieVpPNHZHMWE0Vmk3Q0JFN3gyUkgzTHFYX2pq?oc=5",
+        "published": "Wed, 30 Sep 2026 13:22:41 GMT",
+        "source": "Hindustan Times",
+        "query": "Brent crude oil prices"
+      },
+      {
+        "title": "Oil gains as stalled US-Iran talks trump supply recovery - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5",
+        "published": "Wed, 30 Sep 2026 13:01:46 GMT",
+        "source": "Reuters",
+        "query": "Brent crude oil prices"
+      },
+      {
+        "title": "Unknown projectile strikes crude oil tanker in Strait of Hormuz - AzerNews",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LTGNZcFZuZXdSaXgyQzEwdEJEeFlWbHlGRFR2b0F0MHVvWWpnd3RfMGEtejJfMi0zRVN5SENQVXd1Sjk0c3lITXdBUUl0bHh0SlJ1Rg?oc=5",
+        "published": "Wed, 30 Sep 2026 12:56:00 GMT",
+        "source": "AzerNews",
+        "query": "Middle East oil supply Strait of Hormuz"
+      },
+      {
+        "title": "Strategic Oil Reserve Buying Set to Support Crude Demand Through 2028 - energynow.com",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2NrcWFuNXRIbm9FbUZHSUllMHMzQ1oySzVxdmxUeDRrUDRway1WNTZrdnRHYTA1Q1Fjd1dCMjlyOC1xUVM1NHBIRmFfa0JrUXV4Mmtqb1J4c2hraklGM2EtdVJYd3J4MmVvVXRDNmM3YXluNHExYWpRUXlqLWJuRlkzb1lNUjE4VVNHdHQwdmo2enZLT1poMVhFZ2JVRHBkWGc?oc=5",
+        "published": "Wed, 30 Sep 2026 11:46:20 GMT",
+        "source": "energynow.com",
+        "query": "OPEC+ output decision"
+      },
+      {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5",
+        "published": "Wed, 30 Sep 2026 11:44:45 GMT",
+        "source": "LiteFinance",
+        "query": "Brent crude oil prices"
+      },
+      {
+        "title": "Arctic Shipping Traffic Rises as Greenland Defence Posture Shifts - indexbox.io",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNek9ESVAzNEtQRm9kMXVrMTJFb1NiNVlQMHBfVjhseTN0YzBLS0tNNk52bUhYY2VEa3BZbUFwNFFNN2RoOEJ1ZW1qWlBvZE9CVC1CRy1RajNfbncyRk4zdFd2RkxGUlZBZG1lTzR4WnVXcVE5THN0ZDkyak9rRTVrYnFpbnZmVC1wU0NjWDluOXliYlRYcjZfdGt0MA?oc=5",
+        "published": "Wed, 30 Sep 2026 11:20:58 GMT",
+        "source": "indexbox.io",
+        "query": "Russia oil sanctions tanker"
+      },
+      {
+        "title": "How to Track Dark Vessels When AIS Goes Silent - Windward",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Yc0JHSGhXYzcxNWIzRVc2dG9uWHZZMFVsVUpETzEwV2h5cTgwM2RoR0drS2pXblpWS1F4S2RHSGtoUzNDMVNQRG5PU0EzMUI1RXBud29RazVQMG55dGFFQTR2SU15UUhwemtURXoxQ1RCVy1IQTNEaTdNT1Q?oc=5",
+        "published": "Wed, 30 Sep 2026 11:02:36 GMT",
+        "source": "Windward",
+        "query": "Russia oil sanctions tanker"
+      },
+      {
+        "title": "OPEC+ Producers Likely to Leave November Output Targets Unchanged, Reuters Reports - Yahoo Finance UK",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOEM0ZEt0RE5oaFd3Y1FKTm5BdnU2a2laXzFadHlTdlNOaGZFcEYwXzlKQlYtWjN4eDVMTUR6RnhEWmRwd3hjeGNuanNyU0d6YUtEdVdDSm1MSFFBT3p6T01ZRHFUcTRSa3JsRDBta3RBbi1ienY4a1F6VDdMQ2VIN1ppX0tLNTZWZHRQc2lB?oc=5",
+        "published": "Wed, 30 Sep 2026 10:28:21 GMT",
+        "source": "Yahoo Finance UK",
+        "query": "OPEC+ output decision"
+      },
       {
         "title": "Opec+ likely to keep output targets steady at Sunday meeting - Arabian Gulf Business Insight | AGBI",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTV9Ddnlsa25RbTRZcEh5V0F2dXlxR2wtbnNOWTNJdzBMQ3NjX1lpbXh5YkZuUEVISmxEVlhSUnU0RmdkU1JSNGtoU0xCMDRaVU9HRFp6Q01Lb1FfSUxwQ2xtNHdPcDVWbkEwb3B2RE1iaFdUVXpGd2R2RkItWGN6cVZvUl9uMjVURzVSNWN6OVRvYTEwa0pxRmpWb1dCOUQxaFRr?oc=5",
         "published": "Wed, 30 Sep 2026 10:15:13 GMT",
         "source": "Arabian Gulf Business Insight | AGBI",
         "query": "OPEC+ output decision"
-      },
-      {
-        "title": "Brent Oil: Prices reverse on supply headlines \u2013 Deutsche Bank - FXStreet",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVkVJeWlRakVGSHdpd3R6aGh2bS1qWmc4MjBaT0cwaXFQN0NMT3Rjb3pZV3QySm9RTklNMjRrUkpfODhlTjRmQU5BdnlLUVU0SUZuRm1hRW5JMkpmaHhHV25IbFlRVmVnQjA3aGNOY1A0RXpzR1JYS0FjZHB0RkRVTDJGWDRIVTVyVzN3VWJWOW9tSlliS2Qxd3JQeXdaY0xxZUxJ?oc=5",
-        "published": "Wed, 30 Sep 2026 09:52:09 GMT",
-        "source": "FXStreet",
-        "query": "Brent crude oil prices"
-      },
-      {
-        "title": "Former US Diplomat Fried Warns Mixed Signals Could Undercut Russia Sanctions - Radio Free Europe/Radio Liberty",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT04zWWRHZGR0bFJhLXJlb1d5aHBrUDJTcjZ4Qll4VDk4bTN4WGFGWXA1bHB2RHdUNFNRalZXWkpmQ0R1OS03cmpIeUM2alliTjlQeXJSMXdGd3hXTFNkYUx4UnF3Q3ZHY1gyT0FweF9PTll5dGxQaWs0eXpPbWZ1YklKdmxhT3M0QTc5U3JzQW4wQ2lYeEx0RC1xZ0dnZVlrdEk2OXBkN19IVkpTdlQ3bHl5aXXSAbcBQVVfeXFMT3RCT2FITDNGNDdUUk5uS2pYbWZ0T25zbFFzTXIzb3BjODM0aDJWZTViU1dwQ2ZhUlB0X3JqczdEVmZtdmpIX2tOZ0dRdHBxdkNkUXVlUWd5eF93WEd0UzlMWEM3UGY3bkhXYWlrN2xGZkxtMmRLU3VoMVd2R1pwTkh5VWhNdUtjbzZlUkVIRFRvTG1kelFLTWZBNlZjME9KUGdNYmtEcmxmdS1aU1RzS2pMMzRwczJr?oc=5",
-        "published": "Wed, 30 Sep 2026 09:40:03 GMT",
-        "source": "Radio Free Europe/Radio Liberty",
-        "query": "Russia oil sanctions tanker"
-      },
-      {
-        "title": "Brent Crude & Crack Margins Signal Physical Market Tightness - TradingPedia",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmxhWnlHQTRmeVBqMWYyOGhPWk9KQjNIQkc0WkRHXzZNSnIwZEh0M2tjTXlKcUJDdDNRaWVBdkVMNlVoOVVzcUNhRTMzMGl6RnU1cWZxMERVb1hISmZ0U2lLbUtQNzg5eFBtd0pzWEY4RVNwMFNpSGVZVERSX3g4WHd0eFNJaDZjNHVrV01HVV9PVFlrX0ZxajA3UDBRR0NY?oc=5",
-        "published": "Wed, 30 Sep 2026 09:02:56 GMT",
-        "source": "TradingPedia",
-        "query": "Brent crude oil prices"
-      },
-      {
-        "title": "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say - Rock Hill Herald",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOFo4N2Q1b2FFVk1rVlBVTmx1UWJYTGdJUFpSYjRvRVZvdGFIcG8tUzlfNXhOWjZtbzNqNUNiLWNKSUdVcEFZYnlWOTlnXzhoY0F1RWtGbXUxTXhGbThxUkRnLVVIalpkQjhKSnZtZWgtOG1CVnhtdlU4YWV1Y2kxamRPbw?oc=5",
-        "published": "Wed, 30 Sep 2026 08:52:00 GMT",
-        "source": "Rock Hill Herald",
-        "query": "OPEC+ output decision"
-      },
-      {
-        "title": "Oil Falls on Signs of Middle East Export Recovery - WSJ",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2JwbTlGSXF1SDhJNUdVdUhDMkgzR2F1WVZ5N0RpVkVya0dSVGtZaWpWWDUzUUg5eDd6Q3plbjgwOVpnR2tiQWRGVFl0amFrekt2ZW8wQ3o2bGFEdk90SW5IV2NxMW9wdEJueldHYmExd3pjYzBjMklLa0VVdXRiU3U0NmwzOFgyTlpCNDlFM1FxNVhqMThFLU5OWGhwSW85TF9kM0dqUkQ2YlE?oc=5",
-        "published": "Wed, 30 Sep 2026 08:04:36 GMT",
-        "source": "WSJ",
-        "query": "Brent crude oil prices"
-      },
-      {
-        "title": "Oil prices fall on higher Hormuz flows, US reserve release plans - Anadolu Ajans\u0131",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMi1zODRlMTBzdjBIbjlKTUVQR09ncV9BcExhSFhMTU4xYXBTY2k1R055NzZoX1o0bmtybWREa3N3blZtYy1kMGFLWWstWjU3Ti1oMkpNU2szWDI4WGN5d2pRLUtBcmdtZzcyd0RTMFBkOUxqR0hwWU5iSEV2NEEyNEk1aTFJZGU3clZSNVBFQUJpYi1hMTdMdFM5TjY5VVdpeXNlRHR0c3PSAbABQVVfeXFMTjBtdEdzZU44TmNpdDNMd29OYTctNU5NZS1DSmNYV2FKS1VpMld5NFNzLThYSi1jX1pJUWdDU2RLSUc1OGdLUzBXYm5qZlVvMllKbHh5Rm1xT21QUDYwSGdFQXBjOGlxVzAwTzlJZ1JMM1ItVjJ5aHZEbEYtWUNQMHVRaFI2WjN3c1lGTkRCLTBOcUhmY3h5NTlRYTNnUzg5aXUtbXNvajZmUFBNelNlUzY?oc=5",
-        "published": "Wed, 30 Sep 2026 07:59:40 GMT",
-        "source": "Anadolu Ajans\u0131",
-        "query": "Middle East oil supply Strait of Hormuz"
-      },
-      {
-        "title": "Strait of Hormuz oil flows near pre-war levels as Iran\u2019s grip slips and Brent\u2019s war premium fades - Oil & Gas Middle East",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03ZkNmMzVWbXdNdjRuMndTeDZkVUxaTlI5aHBOc0YwWG1OTWl0SXh3MnBVZ2RCTDN1RWY5alBzNUUtdXc0aktmVE1IbGZyTGdlMndzNUxDSEpYdjRwQzVNSS1YeWdEN2FJWmJFRDRkUUZIRFdkRUE?oc=5",
-        "published": "Wed, 30 Sep 2026 07:30:00 GMT",
-        "source": "Oil & Gas Middle East",
-        "query": "Middle East oil supply Strait of Hormuz"
-      },
-      {
-        "title": "Putin is smuggling oil and gas via the Arctic ice to fund his evil - The Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDR2RnZlTElQZW1jUldvQUpabE9oUjIwb2lZX2FTcTY5c0hSQk44NjdsMnVTNklVUGY3LUhGVlFpdTlHbWNGTjVTTG91OWFSRmY2Y1M1bnJ4MkRJSExfbHJqVUlNbkRvYU5rZ2REb3Y5SjhWbjE5YzlBT2hSeHhFMUdHdmU3blA4cVZidG51cEZFQ0ZDTHk4bUJpNVFzZGc1?oc=5",
-        "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-        "source": "The Telegraph",
-        "query": "Russia oil sanctions tanker"
-      },
-      {
-        "title": "Oil gains after Trump denies he is willing to ease sanctions on Iran - The Mighty 790 KFGO",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemdZdHc3TnptLXVTSmp3VzVXNUc2dTk0TVlUQTh3Q25rTzlyaFNEejFHS1ZBZ2VRbzlSLWdHWHB5dzZ5S2ROUTJ4MHdRcF80cGMzR2JRWUhkUF9GdTBheXRqSl9EeWkybVFydkUwaTZHT2I3Vi1NSnBkMDZsM0FCM2pHMllPLWlTbkJtd3VxdFl4TFVhZkxaSjZpb3J6NDg?oc=5",
-        "published": "Wed, 30 Sep 2026 05:49:59 GMT",
-        "source": "The Mighty 790 KFGO",
-        "query": "Russia oil sanctions tanker"
       }
     ],
     "Metals": [
       {
+        "title": "Congo to Audit Major Miners Annually From 2027 as Part of Local Content Drive, Regulator Says - The China-Global South Project",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkZPZ1JVV1JqQWNScXAtU1Fvd0x1SFVQX25BZVZoVnpJbFlFblZyVVFCcWJWcnNWcnAzU19ZMUpwc0tZOFk0OW5MZEdEU0FQeFlCUkFsb3dpelBYaWZKbThRV1dkWlpETTNGZEdNcEZESXJrSTJHZW9MRl8tOElmU0Y4WDZQRGk5cVpEZg?oc=5",
+        "published": "Wed, 30 Sep 2026 14:20:53 GMT",
+        "source": "The China-Global South Project",
+        "query": "cobalt DRC export"
+      },
+      {
+        "title": "Q3 2026 Cobalt Price Review - Benchmark Mineral Intelligence",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnFCQUVheEl2R2FlR1gybVo3aXVIaG4tekpjR3FLZHlWRUJ0cHFheVc0QzE5bEVGQW9MdVdKV0VJaHhIWnN3YzJpY2ZuWHNFMWdvUjh5U3JjQ3NQeml2XzFpbHVlZEM5bXRmRElpSnp3d1JuSTU4bFNUR3QzOWNLRnNjYXNzTFd1QlNOblotRldoSVlQVDFzTU1xSWV1cGpLbU1yNUdreU9La21wWVE?oc=5",
+        "published": "Wed, 30 Sep 2026 14:17:59 GMT",
+        "source": "Benchmark Mineral Intelligence",
+        "query": "cobalt DRC export"
+      },
+      {
+        "title": "Can Chile Strike Risk Keep Copper Above 14,400 USD While LME Stocks Sit at 251,350 Tonnes? - kalkine.ca",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGI4VzNnOHpJRnhOeXBfd2FWbUMweTJtb1lYZ3RBc05CbDVOOVhKdkYzeHpwVHJabjd6dzR5NTNvTm93THNlNFI0RnptVWdoTlpiNkZQeGJXMkFvNS1Rckk2cERmRXFUUUd2TjZodXRGcDNKRS03TkdWcHVPazNWQUVVYnNadnpPaGZ3UkdST1RSR3o0RE1JN1JEM2ZVMk5sMGlkZjJuVDNzVEdhMHZIOXJmOTFJbjNTYkE?oc=5",
+        "published": "Wed, 30 Sep 2026 14:15:00 GMT",
+        "source": "kalkine.ca",
+        "query": "LME copper price"
+      },
+      {
+        "title": "Alcoa Corporation (AA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05MjhuVUo3bWtjanM2S2wyNERsTmJBaW02MHM5d3U0STllQUh3RTZVMkdHenRZTkdkNEtNR2prYjBlUG1IV2V3c3NwOFpDemM?oc=5",
+        "published": "Wed, 30 Sep 2026 11:38:27 GMT",
+        "source": "Yahoo! Finance Canada",
+        "query": "aluminium tariffs"
+      },
+      {
+        "title": "US-Canada tariff tensions drive 84% rise in aluminum prices for Texas fabricator - AL Circle",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVy05aWRBYnFxZEs2STRaLVBfYUpKZHBmRjdYNEl5eEhwcWJxbjdycmVYdHpiZGJQSXBXemk3UVdWSUdUYXRmTHdkLURCWVhfdzd0Um5ZMWpkNzhwbEp5aDBzRWp0TmZ1cVVGZld4YjlWamJrWTZabEtzSFFQMmtqZkFXU3Y3SGdzV1JZbnFKbkEydVlCSm5PcVN1Z2FMS2M0YjNKejg4TjV5cnBBbEJpb1ZfZGw5eGM?oc=5",
+        "published": "Wed, 30 Sep 2026 10:57:30 GMT",
+        "source": "AL Circle",
+        "query": "aluminium tariffs"
+      },
+      {
+        "title": "China's Copper Cathode Production Drops in Sept 2026, Maintenance and Supply Issues Cited - Shanghai Metals Market",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRUJuM1FUWjFyd1NZSlZxOTJCWVlVTDlUZWNuRXpyNy1QMXo4d0hraGRZU2tSRGE3OXVKMUsyMlMyNnhNUzlxX3VTSndXb1U3VW5fcS1uUjB2b2pEQzg0ZDVzVDRyMWh6N05jQjQ5YjNsdW5XWTFKcmk5Z284YVM4TUxvc2NDMzFyanJVbWtlaTdYNENQSlQ3dS1MekVpWmRiRl84RFg3WGZtNmhVTmNlQTVFLWNfVlpNc1Y0ejhVS2N6aENOeXQ2SFoyZzY?oc=5",
+        "published": "Wed, 30 Sep 2026 10:47:00 GMT",
+        "source": "Shanghai Metals Market",
+        "query": "China copper demand smelter"
+      },
+      {
         "title": "China copper cathode production continues to be revised downward amid maintenance and production cuts [SMM Analysis] - Shanghai Metals Market",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdTZwejFXb2tpTXktS280RVRfNE12OE5qY2xoUVpPd0pOY2xpQjdtYVdvWVJKeHNmVjFVS0R4TTN6N3ZVN1JkLVFIS2FjX3lOS0J5cTA0U0xMRkhadUM2ZVZSNVE1cWRVNUJCb0dZS2xEUXAtV2RVWjlGeGk3VEZGUlhiejU0UXhRdnNKWDVJQml0TEl2RFE4VW1fbHdjUUYycHpwQTBZNFBhOUd0WUdqOUZxeWQtTEw1dXhqUS0wNy1YR2Jia0J1RUpzOGI2eWNTTkgtSmhWa25XRlhOTzY4d3lOWGl3VWxTSzVTSmFNdkU?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdjJzMk1Lb2V5NlpRV2J6YTVfMVdRalBXeEtEbGpBQUZGNFh4Um1LLXpUc3g5WnBLWmpBejdKMndRNjFEWmxBN21hOHhjQ2RpWkl5cHhycXdRcl9uVzN2T2dLTFpHNjBaS0ZPeEdwdzhFcHhVOGIyV2daaG50MnF5dWpnZWV6bDZtZXkweUhNZVgxc0VFMUFLSmxkaWRuVUU0SXFZaFpUNDBHOVJycVFleUFmeWx5UjlMMWs5U1hPOHVCZlFkanRFSW5Qb0RVZTdOMEZHM1RpQnlZUTk4anJPZ19YSDRlNHpfVm9QMEJMaVlsRVpo?oc=5",
         "published": "Wed, 30 Sep 2026 09:59:00 GMT",
         "source": "Shanghai Metals Market",
         "query": "China copper demand smelter"
       },
       {
+        "title": "Copper social inventory slightly destocked before the holiday, with weak consumption recovery in the October peak season - Shanghai Metals Market",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNjlKa3ROMkFPQllQNFNVZmhueVc4M2E5X1JxZlpPY2dKZTVLVjlIUnM4cTZTQndPeEtqSHZoZmZkaEd5REZMSXZaemlNZFJBSGpRYTlES1VlbkwzSmg2MUpBdUh1RjdickRXQktjcC1xZ19MTDNBTUF1TWpvbldiNDNaVXpYbzUtNnRoSUxuUGQ5V2F0cTZBUER5d25oeFVITncwemtnclRVQWQxRU1OZkphZzhBRzJORXZ4S3Bab2E1UkpvWVhBdGZENVhrV2lWTmktR054blEzQWpObTBFYkJvZmxrOGMwRkhCbTJheFdjSTVsblJNLXNIOA?oc=5",
+        "published": "Wed, 30 Sep 2026 09:43:00 GMT",
+        "source": "Shanghai Metals Market",
+        "query": "LME copper price"
+      },
+      {
         "title": "[SMM Analysis] India Brass Billet Prices to China Fall as LME Copper Dips and Chinese Demand Weakens - Shanghai Metals Market",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbEpuUUdvV3lPWUpfU3dSUkRTd3REMFRzX0oyTnVBN2JicUl2WGhiTTRwaG8zU0NSdEloYXFJN0EtM1pTc1ZQQi1WUjF4V1g3UzVKU0xReXlSV1JPQTRHOWxrVHNSUUYzd09qckwwWmpucXpmUFNCNlF3eHdEZzUwNXRKZE1seXpOcXJqODNnWG96ZF8wdk52dWhySkJEblZaVzE0djJ2ZG5uSm5PRXljdG5ZejBqR0dNUVNtd1AteFBpckZrZTJNLW12eFMwS1FOUlU2TVVTc0dJcWc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeTUtZGFseGJ5RDk3Z0RDOVdoSU9XMUFQVXBUTXNnZ2dfa0V0YXByUjZ0ZE1DMVBaQXM0cFB1aERSY08waVNIY251WEFURTN6eC10bUhWeXcxLUhLWXNKOWgxTkFHYXhhVFJQcjg4YjZkOGNGWm1haHltUy00OEUwOTJHOUMyS08xbjROM0JKM0hKUDU1SWVoWFBfMy1WZG5zUFZRWWc0dTEtbi1scDROUGdtaFRib0FYT1Z4RDd6MElWRGhZMmhXZ0psUTVkaVFXZ3VvSjFMbUZfbWVIRGE4?oc=5",
         "published": "Wed, 30 Sep 2026 09:42:00 GMT",
         "source": "Shanghai Metals Market",
         "query": "LME copper price"
@@ -95,58 +144,16 @@
         "published": "Wed, 30 Sep 2026 08:36:00 GMT",
         "source": "Shanghai Metals Market",
         "query": "LME copper price"
-      },
-      {
-        "title": "US tariffs are deepening the crisis in Canada's steel industry. Stelco - Shanghai Metals Market",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSG9zX3pGVS1yTjBCenl6Nk9KVkdjLXVxLUI4R1RmSVFsLWw3TWRGWmNlRHRpRVZfLXhuX0ZpQ2gtZEZzVW5OUF9SQzUwY0VwRHJSY3dRYmQtSUFaLWpVOXVPY1BBVU9VUnBxUzY1N0VpNlNkWG50RS1FUDl0cFZzZUFnYVB4TlhobWs0QkNab1VncmZ1SjJaSTJXRXJXQQ?oc=5",
-        "published": "Wed, 30 Sep 2026 07:42:00 GMT",
-        "source": "Shanghai Metals Market",
-        "query": "aluminium tariffs"
-      },
-      {
-        "title": "Pre-holiday Trading Quiet on Both Sides, Spot Premiums Continue to Pull Back [SMM Shanghai Spot Copper] - Shanghai Metals Market",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWHpFSVEycnNzZmdrN0VOV2gwMm42ZzFtWFV1Sk1fNl90bmZMdmw2WXpyQjBvd1l4aFM0LVFrNEQ4aFlONXZsMjVNb3lGTG5uN3dOajNVNFpYYTE3NDlZcURud1dOeFl3VTBkR01oX1ZWNU9xOEF5dW16Qm80U1lWeVpTZUVGaVZicFNEVk1IdjZ0QTh6eENwRDJ3U2wwYjlhazdGZnpFcW5BR0l3c3k5dXUxQ2lyNTRpWVRWdUc1dmdBMGVKTlJfRUlPTmRFczdDYjc4YzFVNnFpaDEyd3c?oc=5",
-        "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-        "source": "Shanghai Metals Market",
-        "query": "China copper demand smelter"
-      },
-      {
-        "title": "Chinese buying lifts ex-China coefficients [SMM Weekly Review on Secondary Copper Raw Materials Outside China] - Shanghai Metals Market",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdnk1VEgteFpwcGE0b3ZQaWxfUW53em4xT01pMmNmd1NIaGxWYWl1VlpxWmdDN19GTjF6cVRtVGFfZ1YxVWNYY0JXWnlOTm93cG5pbnNZcjctZW5iakN3QWVBOGJZcWt0ZkJEaEd2cnpXOG1jNFJPRVlZb05INlVPVnJEVjlSbzBzb3AwUnYtRUVTSkoydF9nbENrZWpVUG5COFczeFZMeWxIQzBCUUJ6NFJEcU1yMFgxN05aLUJ2N1owbFlOUHFqLVlZenFoTHFSMG51MkpnZjJfZ05mVi1DR1NPUWxMWmNf?oc=5",
-        "published": "Wed, 30 Sep 2026 05:33:00 GMT",
-        "source": "Shanghai Metals Market",
-        "query": "LME copper price"
-      },
-      {
-        "title": "Africa\u2019s mineral strength is wasted if countries don\u2019t work together \u2013 new report - Down To Earth",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcWdhYjNUTjA1Z21tbF95Sy0zWkdUYlhZQ21FN3ZIb2Zvc2JQWVNPV1VEcG5UTUtLVkxNeDFITEhGTEF2ZTlmb0R4QUd3LXZGVGlKMUhGLWs5Y3g1QmJXZGczZE1PZFAxZ3BIVGxWUGlCLVdGVEVZVHBFaFRNRlFGUFgxSlpQOEpCQ2RvOHczMnY5UzNHeEYxVXRKajhGZUZyajlUVmRBMDJBUnNNcDA3SlpQdHlid9IBwwFBVV95cUxQcnVray1wdGxSNTFteUlydExXMUpTWFB5MGdhdUhGNm5ST0c1LTlPZEc0Sl9yVVphaXlYMHdyaFB2SGIzczFVSERkeC1LN2w1OFpsYUZHWjJfZ0Q5bEoyMUR2MG1yMEtPcjZRRHY5SGx3NV8xRXZBQk1uZ0I3S3JMbUliZHlGcU8tY21fSVp0SHVNSmZTS1NINHZ5NTZRakRncUtFUEhvTTU2UGxvWktxM0txV1RUWTFyeVJfMHBzSl80b0k?oc=5",
-        "published": "Wed, 30 Sep 2026 04:11:42 GMT",
-        "source": "Down To Earth",
-        "query": "cobalt DRC export"
-      },
-      {
-        "title": "DAILY: Copper market sentiment weak... - mysteel.net",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTWRiaDFEU2RoeVdzVXRiZDAzOTJEWk5VXzlxVlE0V3BtdVRqVEJJdUp0U0JLai1FM3NDZThBdmFnM0ZBc3RVNWxaTzRIdkJrRmxRTzU0T1Zkb01xTkQ0M2c4Q2FlLTBjX0dhcDU2Z3VERnJvNUxyWXhLSlRYU0VVcFU2cTB0dW9ickM3R0FUVzNHT3ZoMDYzaU55ZVFCNTRMUlhORTc5UDNKcVk?oc=5",
-        "published": "Wed, 30 Sep 2026 02:12:24 GMT",
-        "source": "mysteel.net",
-        "query": "China copper demand smelter"
-      },
-      {
-        "title": "Copper steadies after sharp sell-off - brecorder.com",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zQXJHekRwdG1kS2tDTlNJM0ZDSlVOTGdQRGJzUHBWNGctNC13dVJrbkdtRnRuaHZrVy1CNUlJd05TU2U4MEdmcGFrR3lvbTdHUXBwZldR0gFWQVVfeXFMTjNBckd6RHB0bWRLa0NOU0kzRkNKVU5MZ1BEYnNQcFY0Zy00LXd1UmtuR21GdG5odmtXLUI1SUl3TlNTZTgwR2ZwYWtHeW9tN0dRcHBmV1E?oc=5",
-        "published": "Wed, 30 Sep 2026 00:49:24 GMT",
-        "source": "brecorder.com",
-        "query": "LME copper price"
-      },
-      {
-        "title": "Forget TACO. Trump\u2019s Best Mexican Food Acronym is TAMALES: Russell - EnergyNow.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2JwRUFnODNzSzNPTUQtaHRremg1UWl6dnBTd0FjWklSMFFnUG1tN3lBdmw0bDdDcWEzdjBocHU0VmJRY0xKRmZuakVFaWVLeWZtNDJaSWxTSkdlODlzWXpsb2ZpNlR5ZlBaM3doRUdpb3BxaWFpOUtPXzNxeVY4MDUwU3ZYckUtenRJb3Nuay05aUhhaXlLM1ln?oc=5",
-        "published": "Tue, 29 Sep 2026 20:35:27 GMT",
-        "source": "EnergyNow.com",
-        "query": "aluminium tariffs"
       }
     ],
     "Gas & LNG": [
+      {
+        "title": "JERA Sees LNG Prices Staying Firm as Qatar Repairs Drag On, Europe Rebuilds Stocks - EnergyNow",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONF9Id1NuRmpkMzdMMTZSWkhwOVNKUVhfWDhmdkhoSFFta1JGQ3dfTE10YWNZUXU3ZWI5SURWeXJ4QXVWQUJqUlI0VWdQVEJiaDBHVXpxN2M0Z05FTXA1SHV2R1Rya2k2NEJDWWhGeGZvVzJfU3BjeHpCcUtITW5pa1RWczQ2R1QwUUFFcEFnQTJIX1ZwckJXeVNsUl9GbjZaVWNFNUVpX1dGdkZBNDdiSw?oc=5",
+        "published": "Wed, 30 Sep 2026 10:30:02 GMT",
+        "source": "EnergyNow",
+        "query": "Qatar LNG"
+      },
       {
         "title": "Iran conflict and LNG disruption unlikely to end before 2027, warns risk expert - gasworld",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0UtU1E2NXBLWXJRRnlSd2lyM2hrSWNpQTRmWjl3cE5qcWVhVnVuU1oxWl9obnNhZ2RadDZEZ0MyOVluNk1KanFpZTdyZkNrZFlUaVlCOXBUSldMN3VEQWJxWVJEc3VaWWEyaDRabndheGdxb1NUUlRmZGJVWVEzcTZQZmg2NnpOT0dLbG1HNjJvNEVGNGxTZ1dDVGhxbVJ3dHdNUXpPX3MtdjdjNGZySzdKTTJ1ZlFfM0NyOFlzSFVobXhM?oc=5",
@@ -162,10 +169,10 @@
         "query": "LNG cargo Asia JKM"
       },
       {
-        "title": "Qatar Brings LNG Tankers Into Hormuz Despite Shipping Slowdown - EnergyNow.com",
+        "title": "Qatar Brings LNG Tankers Into Hormuz Despite Shipping Slowdown - energynow.com",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVFmSDFRemJEREhkQVBYZzN6VUhYeEh3QUUtY1A0VVQzcS12RVhDb2pXYnp1dVMwdnFOVEhiVUw4QUVIalhLc1pQeXl4em5RTTJ1NHlfbnFtQlByTUtPc0xra0gxbUhjd0MxRGxSS25KejdoN1R4Y3JsRm9FRnhqSGQ2Tnhyc3Nsc21YNFdiRC1SOUpXa2c0Ug?oc=5",
         "published": "Wed, 30 Sep 2026 06:31:17 GMT",
-        "source": "EnergyNow.com",
+        "source": "energynow.com",
         "query": "Qatar LNG"
       },
       {
@@ -173,13 +180,6 @@
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05cGMwd25uekVaTm9aVmNxODc4SnVtVUtqbFRxTk1FYWNKdnpXeEFZYWdMTGJ1aE9BaVRxRFE2YXZEVUxIbEpHSEoxWllYQllsSlRFcXM4NFRaeTIwMXRuMUpjbG04UjAxX3VLV08xVm5OZw?oc=5",
         "published": "Wed, 30 Sep 2026 06:16:04 GMT",
         "source": "Energy Intelligence",
-        "query": "Qatar LNG"
-      },
-      {
-        "title": "Iran Attack Wipes Out 17% of Qatar\u2019s LNG Capacity for Up to Five Years, QatarEnergy CEO Says - EnergyNow.com",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWxNbGs0bmxYTUl5R3NrZXljOHkyT09nYVFJRVBVUjdjVk9YOTlORWJFTzZZTmVOMnhXTzVzZW92Skx0VllWVXBJUGZza2UtMGhfdGVKSXRmSnBSZk44SzhQSC05Y0l4Sy1Nb0h3TUZIYkZxREhBaXZIS0hqTENvMlVpVUpvOWNmb0s0VUxLeTVxOUpRWG9MZXo4UGg5MjVLNWFlak1rWndXc05hZ0gwSVlEQkVaRHlVZFc2OA?oc=5",
-        "published": "Wed, 30 Sep 2026 02:12:10 GMT",
-        "source": "EnergyNow.com",
         "query": "Qatar LNG"
       },
       {
@@ -204,21 +204,49 @@
         "query": "LNG cargo Asia JKM"
       },
       {
-        "title": "Europe\u2019s Gas Forecasts Are Not an Energy Strategy - Baystreet.ca",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lVElOeWxQTEpzWmE0clpybzAtYTI2VF91VTRZR1lrOFcxUEp0N0VGblJLUVQwcjE0UmdoUUl1RS1FekJaTUtWN3Q3Q1AxX0tCUHpPemFoZkVEV3lhakV5ckxGUGxjMEFWbTFUUy1aa1p5MFNabERVdkxkONIBe0FVX3lxTE5lVElOeWxQTEpzWmE0clpybzAtYTI2VF91VTRZR1lrOFcxUEp0N0VGblJLUVQwcjE0UmdoUUl1RS1FekJaTUtWN3Q3Q1AxX0tCUHpPemFoZkVEV3lhakV5ckxGUGxjMEFWbTFUUy1aa1p5MFNabERVdkxkOA?oc=5",
-        "published": "Tue, 29 Sep 2026 11:17:00 GMT",
-        "source": "Baystreet.ca",
-        "query": "TTF gas price Europe storage"
-      },
-      {
-        "title": "Qatar extends LNG force majeure, slight uptick in exports - Quantum Commodity Intelligence",
+        "title": "Qatar extends LNG force majeure, slight uptick in exports - qcintel.com",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXZfSFNnTWlfTmpjdFdtVG5HSjNRdHdtRlZJbDFGVW10YVAyelp5NEpkc0t5WTVrcUVHcUF0UVJ6NTlEbVljUVk4N1RubDFEMktzZk5oNVFxck5SamVIR3pFT2FhZFNfRTRuMkotNFBINGhDR05UeVpPVXdEOWViclBkbVo1bU5IUkRIRFVmSlV6UzBjcFBRdktlTFVCUENhRlJ6aHE3bTBRbmc?oc=5",
         "published": "Tue, 29 Sep 2026 09:41:19 GMT",
-        "source": "Quantum Commodity Intelligence",
+        "source": "qcintel.com",
+        "query": "LNG cargo Asia JKM"
+      },
+      {
+        "title": "Middle East LNG Crisis: 4 Responses - oilandgasmiddleeast.com",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NLXRzOWNibjFXeE9FRnNGanN4a2hWWnNvVzh5aWVVZTM2NFdFUlZod2h4a0lGNnNucjVtVWhMWDdCaUROYmZMLXJfTTAtUi1zcWZnNVgwZUM4dTNvQmRKTFR0d21kTzg?oc=5",
+        "published": "Tue, 29 Sep 2026 08:00:00 GMT",
+        "source": "oilandgasmiddleeast.com",
         "query": "LNG cargo Asia JKM"
       }
     ],
     "Coal": [
+      {
+        "title": "COMMENTARY: Asia's seaborne thermal coal market is shrinking very slowly - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTXVTeWJ2RkotMXlVWjlUYkJ1WEpwT0N3dXJlTEJCLURlR1FVbl9Kdzd1MWxtR0lPLWpqM1BTUmFmYTFNRlljajZfZ0dpVERyVEE2aVQwNWluT0p1S01iSWxfaDF2TVJLUk5ZYlcxZmtFZi1MazBlMmpianRCN3MyWkx4eW1hWUtQay0zMzNkaXFsdWVXdkJOSGtHZUhHelZ1cmNEREFHeHNCc3A1N1BBcldpb2dheHJDNjR3bTIzZDJiSDNZQ2JR?oc=5",
+        "published": "Wed, 30 Sep 2026 14:02:40 GMT",
+        "source": "Reuters",
+        "query": "thermal coal price"
+      },
+      {
+        "title": "Mongolia Coking Coal Test Exposes India\u2019s Steel Supply Risk - urbanacres.in",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFAyX0hzMTJ6ME90Y3JlbW5HSnhZclFLc09EdWkyU0hrdzE0VDF2YmtEdS13bzhkNlRZSVJ1V2JSREdJa1pKVmh5ZzVmX1VQZm5IWWFDZF85MEx0UUlVbUg0R2VvRUk2Z3YzYU11Y0pIRG00VTNjTnhrekVJRVdXbzlnQnB4cWY0?oc=5",
+        "published": "Wed, 30 Sep 2026 13:54:35 GMT",
+        "source": "urbanacres.in",
+        "query": "coking coal price"
+      },
+      {
+        "title": "Russia-China Coal Freight From Vostochny Port Reaches Record Highs - russia's pivot to asia",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZE1nM2drb1I3el91aUpzSWtyeXZtMDdoTXlQRHVza3BqOGQyXzNZSk1yY2cwYmMyVFVBY3l5M3F2aHdpb1A3M1BlUENoc3p2aFZvVXRQY0UxcHZYdkY2eXZ1X0xBNFFfM3lSeVgxUFFFV21TVkcyWEp1VzJIWTZrYUNlRnUycmR5eUl3QllEYThpUWktSkJ1TnlkRG80WWM?oc=5",
+        "published": "Wed, 30 Sep 2026 13:19:16 GMT",
+        "source": "russia's pivot to asia",
+        "query": "coal imports China India"
+      },
+      {
+        "title": "SAIL flies in Mongolian coking coal as it seeks new supplies, sources say - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGpObXRnal9jay1iOTgwczl1WTA0ZkJwSFE2aS1wb2xFRmNmVW1SRzd2SVpUYWxORXRNRzBBLUZKLW1NY0dHNVZmY25iNEdCMVFwSC1rNnJCNDV3VHRxdkFfY0V5cGIxVEJfc0lGMUlLYzMyZXptREhFV2w3eW5FQlhFbTFOb1p6ZDd5LXJpUTJGZERKeDF2QlV1ek9EMEFtZ1BiMFd2YV8ybzl1aGlBVWhFS0JteTJQYnI2WU5JNnRDRkcwZ1pwMm03ZXNtRHVsWVQwTUczVE5iWjVta0VHU1paYi02ZUZ5VU91VEJtRXJjUdIB8gFBVV95cUxQZGpObXRnal9jay1iOTgwczl1WTA0ZkJwSFE2aS1wb2xFRmNmVW1SRzd2SVpUYWxORXRNRzBBLUZKLW1NY0dHNVZmY25iNEdCMVFwSC1rNnJCNDV3VHRxdkFfY0V5cGIxVEJfc0lGMUlLYzMyZXptREhFV2w3eW5FQlhFbTFOb1p6ZDd5LXJpUTJGZERKeDF2QlV1ek9EMEFtZ1BiMFd2YV8ybzl1aGlBVWhFS0JteTJQYnI2WU5JNnRDRkcwZ1pwMm03ZXNtRHVsWVQwTUczVE5iWjVta0VHU1paYi02ZUZ5VU91VEJtRXJjUQ?oc=5",
+        "published": "Wed, 30 Sep 2026 11:08:00 GMT",
+        "source": "The Economic Times",
+        "query": "coal imports China India"
+      },
       {
         "title": "India's SAIL flies in Mongolian coking coal as it seeks new supplies, sources say - Reuters",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFBzU1JYZjZHNkVRbWo0MjFoZHBpbU1KV2FDeF95bWh5MGxlazBWZVo5RzJnRk5iMlRPX1RuTjM2SE1PQmNwbWpMT3M0MWVXbUNUNDRTdEotUlN4UGlfejByeGxMNmhBdXkwaTJvZDNFc0MzSklKeUViZlp1VndpQ0V5NDQ1bF9pOW5xLTZKOXB4RGNuYV9samdvZTlJUzZtV1FnUk1HMG9vdVBRM2lRamd4RUY1YXlSS091bllB?oc=5",
@@ -241,16 +269,9 @@
         "query": "thermal coal price"
       },
       {
-        "title": "OPINION | Asia's seaborne coal trade enters a gentle race to the bottom - Baird Maritime",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWks1eGluek00NzN3b2NHV2FUMWhRbDhRMnRBTTN3d24xOC1wTXgxWVRVc0Y5aHIxeUFST0UtTG51T19VZEcyVkNrSnlIYzFUWnRWR2lyc2FSWkhDZ1NLUnNDSVNkWkdoYy1IV1dCOFJkbDRRZ3ViWDlnMTNFY2E5NEZmeXRXUDRZTG91QTgtVURGOHBFc3ZLM3AzbmhLbllKeG11ZE5xVHJYSjZMajF4b1YxWThGU1FSUVFmU2hHeElsUGPSAdABQVVfeXFMTUdWQV9ibEhIM3I2ZmRrMFhrZ1U2ZEhIaHFqWU1FcjIyRjN4dkFNVnRQZjdEVGZ2eXoxYWpRTlZ2VFhxcmx5N01iaXpHV09pZjdlUVljVlFJdWlRMDYySkdzRWxlOHhDSklnNlN4UXA1NVhEbVJoM0psaWxGYjVtNWctOWUzdDN5UHFIVUZ5a2U5VG8wamswNVEyblRVakxhVG41RTdvODFfTUw1N2NJTExTN2lIM3hEa0J4SWg3OFJEOEM3amlLeXI1OS1LLXFucA?oc=5",
-        "published": "Wed, 30 Sep 2026 10:24:06 GMT",
-        "source": "Baird Maritime",
-        "query": "coal imports China India"
-      },
-      {
-        "title": "JSW H1 2026 slides: losses narrow as costs fall, liquidity tight - Investing.com Canada",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcFBUbmNTZUFmY0lySXB2NWpWNUgybVVYODdONE5zSFpYNUFnSUZuZEFjMklqdzN1RDYzMlRGdHpTT29yTHNrdU9GNGprc0wzcWN3MnM2d3pjbml0dy1nRlllcGFvcGF2NjdzRzU2STVBN3lfbUstUkRxZnE3QkdwUUFMSFZBX3cwOVFDMVl1dVVKbU5QbjIyYXBEYWtnYzByX0FLd2JVTHBUaVF0QUZWZXE5cmpPRG14VVUyMTcyNVU?oc=5",
-        "published": "Wed, 30 Sep 2026 10:16:08 GMT",
+        "title": "Earnings call transcript: JSW posts H1 2026 recovery as liquidity worries linger - Investing.com Canada",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU2NPRF93eUF4cnpBeGNEWGtqbjBicWNDYy1HX0NldnVMdXR6WmxOMGhyRHBsdktHNDlieVNjYlRfX3czRlZxR1N1bHZkY21iazN6R0ZYWGV1cHBmbjFnOTJKSktnSHh3NWdHOWc4OENvNGNOUXZqVnRvS0p1S05PMWQtTV9qem9mRU5mMmF6b3hNMnFldTlGMy1XVC1BdFcyRXhwUzhxUUdzZURrcGNXWVcwUlJpSW5XUGFYNFhyV2FNMnJoN2IzbGYxZ010cXZvNUpTSndESQ?oc=5",
+        "published": "Wed, 30 Sep 2026 10:07:30 GMT",
         "source": "Investing.com Canada",
         "query": "coking coal price"
       },
@@ -262,42 +283,14 @@
         "query": "thermal coal price"
       },
       {
-        "title": "Planning decision to extend life of mega coal mine saves 1,500 jobs - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVFMNkVSRXdIQXJPTUdWTTM0RXBiZHl4UHlwMEVZUUhlUERBRVpDcF9Bd0lXTktSYkwtZ2NqUHJzaEJ1MzJZMlZLZjNnZUhlbnplQWdzZEpfX1M3T0VSZGJJMVRnSjFzaDdwSHFubDAtSjJ3aG9SVjNEZW9USnlmczJUOW8?oc=5",
-        "published": "Wed, 30 Sep 2026 08:30:00 GMT",
-        "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-        "query": "Newcastle coal"
-      },
-      {
-        "title": "Coal pays for the clean energy dream, like it or not - AFR",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbGU3UGZpZnJQQ2NCelRFLU9WbFlXaDcxOERaNGJ1OFhWOTlZaEYtUDlHVnJnTlNEQWxvWElhenBWdHdDbDgtQ1NncC1ZbEVndW1iTXYzc3p5U2xoUXBCNnZ1V0NyTHFFODVwOS0yRUx5S25tRzVnUjltbGxVQnNHOEtUUzFRcE11alhrTGlZRmxwUDdiWHpFQy1IdEJkWENJ?oc=5",
-        "published": "Wed, 30 Sep 2026 08:05:00 GMT",
-        "source": "AFR",
-        "query": "Newcastle coal"
-      },
-      {
-        "title": "Indian steel prices may rise another 2,000 rupees/tonne (about 23 USD - Shanghai Metals Market",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYXQ3ZG4tWWNzTklQaVp1V0dIVDBTTW1SSVpjVTBsOVA0Tjc3VDdqUHVrVzduZTFMWUNEcS02Z3dUc3podkxYNHp4dlM4TzFSU054aG1iNVFfTFR4dGtEWEo0YUtkUEV1bGNDS0tvZXk1MThrenYtWGpXdGFxUlJrQWtWR0xHVDZuVTV2V0RpcXhwZUp6TGFCTElzWFZlcHRnZzFfdVlUX3N0X2tzdW9WN1V6MmdYYmhJZVl2ZkZiRUVlOC1XUF9NYjlzOVo5MkJnYkwtUEZB?oc=5",
-        "published": "Wed, 30 Sep 2026 07:42:00 GMT",
-        "source": "Shanghai Metals Market",
-        "query": "coking coal price"
-      },
-      {
-        "title": "Ioannis Manessis, chairman of IREPAS, told the SteelOrbis Fall 2026 Co - Shanghai Metals Market",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSy1rSUVvTVNHVWRjSHN2Q1kyMkJWYVYxczdhd0lxVy1FWllsb2NmcmRndHdOSzZrZlZSLWhUbGkyZlRpeHVFM3k1M2lnSHlvUzFma05ZSlVLdmZPdUttZXhoZ3JONGdDN1o1QXdtMW1Ea2VQc1pPVWRmeUh0Q0g3NjA2LXBCcXhFd01lX1BRUEN4SlhwLUlIY3psMkpaRnBURzNVRktyb3dYbllRMGV3OEZCOVBQNXpONWo0azFNU2FSNkVZVjJpNzZUWQ?oc=5",
-        "published": "Wed, 30 Sep 2026 07:42:00 GMT",
-        "source": "Shanghai Metals Market",
-        "query": "coking coal price"
+        "title": "Coal crunch deepens as Middle East oil flows strengthen - Mining.com.au",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX1VxaWdIcWtnMVRHVW9SMTd3NVBZSWVQanZCYTNzQUE3ZmQzTUlXY1lGR2FoQld4TmVtOVR3VzkwNTl3aTMwZkNJRGVGcVJjSmhsWTRPUTAtNUN6c3hYNW9hZ3dLS3dNVUxUVVRFVXdPZ3YwQjZZa01YNllqMHlpVWVYRXo?oc=5",
+        "published": "Wed, 30 Sep 2026 09:34:34 GMT",
+        "source": "Mining.com.au",
+        "query": "thermal coal price"
       }
     ],
     "Agri": [
-      {
-        "title": "Egypt wheat imports fall 49%, but buying needs remain high - ukragroconsult.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbUZUeXJITGU5UV83SVp1SFNMWlY2RXd2dHJHRnY5WnhHS2ZwNmNUWVNLZVRibWo4aGJrYnJxRHNMRVU3QWdWaXpYdF9iM2xFM1kxelhRLUhFdU9MdTA2RE1MY3pxamFFc2VWaFNwTkN4TkVUUXNjeUNJM1hpQzMzZlNVNE9YVkNnSEYtSVlvNWF5M2owZllv?oc=5",
-        "published": "Wed, 30 Sep 2026 09:51:40 GMT",
-        "source": "ukragroconsult.com",
-        "query": "wheat prices Black Sea"
-      },
       {
         "title": "Zhang Siqi: A Super El Ni\u00f1o Won't Make Everything More Expensive, But Palm Oil and Sugar Face the Most Real Price Pressure - finance.biggo.com",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oc2t4ZktucjNCajlUTGdyWWZOVDNDbmptN0J6a0RJWUtDSm5EVlFJS0FwS1VHMkRKSFFRUDVnZmo2N05JRFN2dFVoY0JmUFdqYUNhWjZoTmhjSVk?oc=5",
@@ -327,6 +320,13 @@
         "query": "corn soybean prices weather Brazil"
       },
       {
+        "title": "North Africa's Grain Import Shifts Amid Black Sea Disruptions - RANE Worldview",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaFhOUW1zbEVDb0gtMjczZFR3aWdIVXRDaGM1NmhlVW42U2M0NFF4WW5kT0tlZ2hJaUVlSzFBeEtMNGdIa1VIR21YdDNWMDR6d0ZGNmtXWDRtTG1zTUFHbllLU0RJTk1HaHBpQ2pmaU8zOUNwTE1KN3FDbWotLVo3T1BmUWoxa29BRXdZcDNLZFhIckxqVXlSQm1TMmxoZ040emdEamNmeUVwejhGUmY2OHNQbThNVTdpQlFtM1piUXJncm1FQkF6OENDNDZYdmxjelBCNjY3aw?oc=5",
+        "published": "Tue, 29 Sep 2026 19:07:00 GMT",
+        "source": "RANE Worldview",
+        "query": "wheat prices Black Sea"
+      },
+      {
         "title": "Sugar Prices Jump on Lower EU Sugar Beet Yields - TradingView",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2tITDZCaWRMTTZHcElhM1hfU2NJYWNFd2dyeUJhaWE0SDNuaVU1c1R6N0VMTXhHLW91SHJCR0taTHdpOWVZX0xUVnlZbG1UVXJjVWlrcHVDLUlRTV9NbjQ1cEg0WmtSOVlSZHhtbkt4Tzc5U2ZfS21ibDRSYWlpc3NNY0xvWkl2bjg5T2tDVFdaQU9tb0ZEbHdhX0hjaGdpTlE1dUJPc0tHZw?oc=5",
         "published": "Tue, 29 Sep 2026 18:29:35 GMT",
@@ -341,32 +341,74 @@
         "query": "corn soybean prices weather Brazil"
       },
       {
-        "title": "Corn, Wheat, and Soybean Prices Face a Wet Blanket as Heavy Rains Disrupt Crops - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbDZ4eVVpZlZQQ0RaZ3liNmRZWHZkWFVLb0lPcnZCQWNKUlRGNFVKVGpydHp5eV8zNndoN3BZUlhtU2hwSlgxT1ZpT3BBSHpTNzFYRE53TzJYR3VlLXJxa0g4WENyYzc1a2ZVWERhLUY1TUQ4cVViTUZNRTlhV2U0SXJ0Q0QzUVQxMWhPbEltaG03X2RQR2k4U2NyUE9iT2dyQWc?oc=5",
+        "title": "Corn, Wheat, and Soybean Prices Face a Wet Blanket as Heavy Rains Disrupt Crops - Barchart.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUtuRjI5bmF6NzA3VGs1UjVzdzJTWG9TNndYUVVSUm03V2pOaDJva3VaRGhhOHdMV2c3US14QzQwWG45aTlYRnhpS21VbkUtNlpYai1JdVU4Sk1EODh1bG5HYXdJc3A0NnUwN1ozVUVYb2pZN2dzQTczX1BncjJoYjhFR3p2dTRJRmNGN3ZwRm5YV3cybC1RWlRTWmNIQVpWWlhXTVc4SkpKb29Zbm1SODhCbnA5TG9jYl9SZ2NR?oc=5",
         "published": "Tue, 29 Sep 2026 15:24:37 GMT",
-        "source": "Yahoo Finance",
+        "source": "Barchart.com",
         "query": "corn soybean prices weather Brazil"
       },
       {
-        "title": "Global grain prices come under pressure as Black Sea talks progress - agriland.ie",
+        "title": "Global grain prices come under pressure as Black Sea talks progress - Agriland",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjBLaVoteVJRdjduQTU1QWRiTTRhZWdTa0dFZUdvQ05NVFVyWFZFd1I2MWttRExOanJhZlVEMEM3Ynlzckk4Y0pGck9VSHB3ZHItb0xIMjlMM3dEN0ZYRzBUWjY1WjFIeUUwZVpzM0JIcVhTOUU2MG1heTZLX2t1R1VQTTEtZ2pNUkJQMGtncjl6SFk5c2d0NXlmR0JYR2ptbGpsM3FDcFc?oc=5",
         "published": "Tue, 29 Sep 2026 12:00:00 GMT",
-        "source": "agriland.ie",
+        "source": "Agriland",
         "query": "wheat prices Black Sea"
       },
       {
-        "title": "Wheat price falls on hopes of Black Sea trade recovery - DCA Market Intelligence",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlBpUlN4eU5UNGtYc2RsTmsyZjJ5a0VSbU5xMTN4cE4xUnF5LWg0RTljSDNkMk04ekRMZHByV0dHbTFtTkZRbHQ5S0JDYS1zM3JHTXFfaVNKRVhZRHZXcnZtRXRRQWhMc0RqTW1VdnQ0cGUxelNVM2cwcjdjUGVTclhVT052NGd3QmR6NlBZUGNhQ18yUDVaNlFuS3VIbmpRNDJQSm9VQm0?oc=5",
-        "published": "Tue, 29 Sep 2026 09:04:55 GMT",
-        "source": "DCA Market Intelligence",
+        "title": "Ukraine's farmers struggle to sell harvest amid war, drought - DW.com",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORHhTb1g1R2RIRzUybW9xc0dNb1RrSXdIaG5IV0Z2MlFfVFJVejdNX0dzR01ZbldSekw2eXdzaWNWcERvbF9DTjgwUGNWYjVKY0poQWlEeXduSUNkVGMydVNZQzdpZXpQUFVDLTdOY25jLVFVTFdtalBPMVQ4U0UxbHR0N1BFYV93V2p5a25Wc1MwRk9wVlHSAZYBQVVfeXFMUFRKWkxxcW5ua0xhTTBOLWt4S3dqdTZUUTIzbGJFT1RoLTUycDAwVG5uZ21SdFdVNlhkbC02azZOZ20wbkdvczE4UlpITDcwbGJ0dUllaVhXdDJISk9sb3JRTTZSTlduYkw3QUdYMHRvWTJnSjlTYVNuM0VaaHlhXzJyLUF1RWFKMTRHdG1jSXlERVZRMnZn?oc=5",
+        "published": "Tue, 29 Sep 2026 09:52:06 GMT",
+        "source": "DW.com",
         "query": "wheat prices Black Sea"
       }
     ],
     "Macro & geopolitics": [
       {
+        "title": "Bank of Jamaica raises policy rate to 6% as inflation pressures persist - Caribbean National Weekly",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORXhYOWdyVUhndmhZTzdkN1pUX2dzS1lwOVdla0hna1hQSW1BT2Z3MmN1VV9LcjNtY2s5MmpyM3FkVkxLUG5yY1Z1TEVmTWZtUzZaUVA0VVNteE1WQVBSY0RmcUs3NWZKbWFaYXFzUWF6YjZicTNWSUUxTkFSQlpMR2k2X1J6OG1FREVjcncyVzFoUmloSlpVaGU3b2w3Ml9VNlhzbndiRXlJQ3lNcjFET1FzdFFLaWM?oc=5",
+        "published": "Wed, 30 Sep 2026 14:33:01 GMT",
+        "source": "Caribbean National Weekly",
+        "query": "Federal Reserve rate decision commodities"
+      },
+      {
+        "title": "Dollar Surges in September as Euro Struggles on Economic Concerns - Global Banking & Finance Review",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRVEtX1FrUTladmtvTWNBcVlqX1F5b0NSbkU5NlRzeVZDQVM0WUl5SWdZUUc3dE4wQUJfcnVXVk41azhIa0U0OUdQUG54NEZvN29KUDJBUWd4Q0s0VW1lbTVLOFNUbkdWYzBjcGxvM0NReDhlV3dHT0pnMGdtamF4UFJVOWRmRklzYzRULTBZdXo?oc=5",
+        "published": "Wed, 30 Sep 2026 13:22:35 GMT",
+        "source": "Global Banking & Finance Review",
+        "query": "Federal Reserve rate decision commodities"
+      },
+      {
+        "title": "U.S. Inflation Data Could Reshape Farm Credit and Input Costs - AgroLatam",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUl9uY1lPRl95Z2ZBSVZHeGdOWHpoeGt2ejJZWkZtWXc5blZWQlk4NUp0NHBqdDVVVzVBQXBaV3pReEJKV2hOb0ZKWVAyVERwWk1tbVQtUEQxQmpqMWZMbU9icUllWVNTdkFxMHNMTmswV1hhM3cxekNCTDZmd0ZLVEhR?oc=5",
+        "published": "Wed, 30 Sep 2026 12:03:27 GMT",
+        "source": "AgroLatam",
+        "query": "Federal Reserve rate decision commodities"
+      },
+      {
+        "title": "The commodity Dollar crash: Geopolitics and hawkish rates - FXStreet",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLVVhdHRxS3I2aU5NSnphOU13M3N0VmlVaTJqM3c1YzNHTVk2ZzBQTDZvekluTGFWV1dSeW9rNVFkRHJnaWdjeC1QVjNhV19hUVNtU0NkQkxjcTQ2SDJfeEZDbHZVZ0EtVVdJQUFGckc1bnRLWS0zUVpxUzRrWjFPNU1QXzlIOEVhQVBONkVxclowcFBtYTcwMWNweTFxMVJPMFBBVnl3?oc=5",
+        "published": "Wed, 30 Sep 2026 11:58:14 GMT",
+        "source": "FXStreet",
+        "query": "Federal Reserve rate decision commodities"
+      },
+      {
+        "title": "Stocks lacklustre as inflation data weighs on sentiment - Yahoo Finance Singapore",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmljQWQ4VU9rWU1SeV9oUWg5M1VQVV8tX2kyOWRHZEtnRml5T29fczl4c2pNR3dPMTdycHhEcE5JdWNDTGtwb1JEbXk1QmZqc2otYkI3LUJrcms4djFoYzJpcngzRTNySjRLV3BXM0ZxdnVWdGVUYTdXMjVPaVNTeWp4MDg?oc=5",
+        "published": "Wed, 30 Sep 2026 11:35:00 GMT",
+        "source": "Yahoo Finance Singapore",
+        "query": "Federal Reserve rate decision commodities"
+      },
+      {
+        "title": "Gold Heads for Monthly Decline as Investors Await U.S. PCE Inflation Data - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczBWdV8tUzNTWENfYnF1amZHRVZoY19IejlDVVJBcnp2c3ItXzI2dE80TUhUVFZQTElfUlVKZjRGb0RtVXJGX3ZBZHpNTFNGT0FVNWtBOUtvamJucUdQaVlmUEYzSnVWTVQ3ZWJNSDV2MFUtNFMzSlJpU1U2OHZzcm9mM3ljUDdaOTVsTmNwTGFyZ3NHUFlfclFJUW9yb2VUYVFaUHVsY1FKUQ?oc=5",
+        "published": "Wed, 30 Sep 2026 10:30:27 GMT",
+        "source": "Yahoo Finance",
+        "query": "Federal Reserve rate decision commodities"
+      },
+      {
         "title": "Websites Like Online Trading Charts in 2026 - Billionaires.Africa",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORllJdHdTNWhkQVphU3JNMW5QOVlKVHN4TUVHQkZPbnZBRWFEaWhzS3RTRFJ3bTc2VUE3dVhNQlR6VWVGb2x1NGtEUzNETTU4S3c1TnFUcW9GdElCVzd6MllYdUpXVlM2bGVaWjVoaDJKdEI5SVlydUpKZjZlREtTUEtVY19tam1kd2NGcHdqOXA?oc=5",
-        "published": "Wed, 30 Sep 2026 09:16:03 GMT",
+        "published": "Wed, 30 Sep 2026 09:16:30 GMT",
         "source": "Billionaires.Africa",
         "query": "US dollar index commodities"
       },
@@ -385,56 +427,35 @@
         "query": "Federal Reserve rate decision commodities"
       },
       {
-        "title": "US 30-yr yield rises to highest level since 2002: What this means for rupee - Business Standard",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ3c3ZFdyMmhZclJfbHVnYnFpajJrMXF0aTh4eHRVVEhjaVFTV3VQazFBdVN2aEkxcVNzYTBON21GS1FFLTljSXRoOVVqZkVQakxPTktkeVhwMjdhYndxclJpX0piV2pNQ1d0RURHcVUxWDRxR1N1UVZicVVxZk9lNGpkUXFUbXB5MnkxMGpySFZFSkQ1RUdyR3NGYjBQTzdORHVzazJPcXp6Vmg3R21jNXExUFljZmFGbEstR3FGMjVTSVV1UXhWSlBCNVdCLUh60gHQAUFVX3lxTE1DdzdkV3IyaFlyUl9sdWdicWlqMmsxcXRpOHh4dFVUSGNpUVNXdVBrMUF1U3ZoSTFxU3NhME43bUZLUUUtOWNJdGg5VWpmRVBqTE9OS2R5WHAyN2Fid3FyUmlfSmJXak1DV3RFREdxVTFYNHFHU3VRVmJxVXFmT2U0amRRcVRtcHkyeTEwanJIVkVKRDVFR3JHc0ZiMFBPN05EdXNrMk9xenpWaDdHbWM1cTFQWWNmYUZsSy1HcUYyNVNJVXVReFZKUEI1V0ItSHo?oc=5",
-        "published": "Wed, 30 Sep 2026 06:35:38 GMT",
-        "source": "Business Standard",
-        "query": "Federal Reserve rate decision commodities"
-      },
-      {
         "title": "Global Market: China factory activity returns to growth in September as AI boom supports industrial sector - The Economic Times",
         "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPVWJINXhXLWx5M3hMMEFncnZYTS1fb1J6NnJCX0NUNi1MWlAtSmxkNURrM090UHpPSzl2dWRCLUVFc0dhS0NoUFp0RTc2LVM4OVN3SlBqTlU5eDRLSkNCckNNMzloX2t3QlRpd0tST2hFeWVnQ2xOWkk5TTVjY3Y5S2c3UVhfdlZ4UWExdXVnMmxHUmNiZmJtUW9WTkY2QWQ4ZTV4SU5ha05GZHJSbEFMY0Y0Z2hVQTQ1Nlo1NUpDeVVfajQ0VTR0U3B0VTQyNXplV1FUOVBncnhLZ1d0TGttVUtfeEVvVFZ0TDZibHZ4WGY4bnVaNFl6T1pFRF9pUHVWNUpYNDFGMGREVzFqLUZFV2VPbU5WUWx3OHk3OXBQVnI1dkhkcWfSAaYCQVVfeXFMT1ViSDV4Vy1seTN4TDBBZ3J2WE0tX29SejZyQl9DVDYtTFpQLUpsZDVEazNPdFB6T0s5dnVkQi1FRXNHYUtDaFBadEU3Ni1TODlTd0pQak5VOXg0S0pDQnJDTTM5aF9rd0JUaXdLUk9oRXllZ0NsTlpJOU01Y2N2OUtnN1FYX3ZWeFFhMXV1ZzJsR1JjYmZibVFvVk5GNkFkOGU1eElOYWtORmRyUmxBTGNGNGdoVUE0NTZaNTVKQ3lVX2o0NFU0dFNwdFU0MjV6ZVdRVDlQZ3J4S2dXdExrbVVLX3hFb1RWdEw2Ymx2eFhmOG51WjRZek9aRURfaVB1VjVKWDQxRjBkRFcxai1GRVdlT21OVlFsdzh5NzlwUFZyNXZIZHFn?oc=5",
         "published": "Wed, 30 Sep 2026 06:34:00 GMT",
         "source": "The Economic Times",
         "query": "China stimulus commodities demand"
-      },
-      {
-        "title": "Rupee trades in narrow range against US dollar in early trade - The New Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTW5yOUg2RlhSb2tpX3JmRmk4dmxuNTc5VGhZdWF0Ymo1WnBFcDhCMDdCTVJxeVg5c09qdEpVOHZuUEprWUNBVW1MbGZGWTRSRDJaRGRiS2pralJocnE3T2lRUDRmQXhHeF9YU1lWSkJidVdDeHRnZ3RSVlhPMXM5aHhxN0xfV3hLRWhvcFI0cVNuVXN0NmR2OEN3R2tVenVKMTZkX2FRME10YnZHYVQ5NXMxaXAzZkRf0gHGAUFVX3lxTFB0VWxDVnRZNHNQVjNRWEdyaGVuV1pDSDkyOS1mMTJyRDVLVXItUHo0VGk3VHdDYjBfM3BhNDV0U296dlNmYUFGVFgycmY2N2lZUGRGUVV0RS11aEZhenREVzAtSThrREhWQnJEdktCekw5akhiaGF5aDQyeHJaNEFRb3hHeXJPUU9jUmt1RkFnUG1vUU42SkhuVFJnc0FJOFBNQmFULV9sdkhlbnR1Ulo0Qkw2SktxckJoUkVNQlE4T0xqZ3EzUQ?oc=5",
-        "published": "Wed, 30 Sep 2026 04:29:09 GMT",
-        "source": "The New Indian Express",
-        "query": "US dollar index commodities"
-      },
-      {
-        "title": "China Factory Activity Returns to Growth as Stimulus Outlook Draws Focus - tokenpost.com",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82MkdVX3RLVS1GUWM5ZnMtbWtqZGFhZUpoWEpBZkNMbDRzN0tVcjVOOFpweG02SFphV2NmU2JjajhBRXVOc1d1R2ZxSEZkdGJ6c0R5Q0N0MEJxZw?oc=5",
-        "published": "Wed, 30 Sep 2026 01:41:00 GMT",
-        "source": "tokenpost.com",
-        "query": "China stimulus commodities demand"
-      },
-      {
-        "title": "Fed's Williams sees no urgency for next Fed rate hike - Yahoo Finance Singapore",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1pabUNpT0Uwb1RPTHRyVE42WmNubks5TlFTcWRfWVZkWEZISzlIcWRIQldNaE12QVFibVBFaGlKbGJ1X1ZQMy16aXBuWUg3aS1Ienh3TkJLMVU3ODlQZUE2YlFDNmd0RHlzc2NyUDZXUy1JNi1YSWhIMWRtWFBwZWVNTHg?oc=5",
-        "published": "Tue, 29 Sep 2026 18:00:56 GMT",
-        "source": "Yahoo Finance Singapore",
-        "query": "Federal Reserve rate decision commodities"
-      },
-      {
-        "title": "U.S. Dollar Tests New Highs As 30-Year Yield Hits 5.60%: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWkJUNnZBcEFCN0trYlJMa2pwTDNmdW5hOW53NXBmZm9ZMDBwTFROWGhsWTlZWjQ5TGFkX1d5cjhCSm1jSnNUbE9RQ2pIZlE0RkRoemMyVl8teEFXd0twdS04YXJ6NTgzYXpYOExZdGRpZ3E3NzR5SlhZOHpvamVfTHVfVWpQTmJMbGVUcWhub1k3WGRkYmFQZElvLVdsMXpmM2dNRE5xOXBhaWJ5c2lEYlpUei1FV09kMlB1OWhxbUNTZk8wSVlubE9QTy1mLWkzX3p5bWxvVTZrUl9IeDRtS2E1QQ?oc=5",
-        "published": "Tue, 29 Sep 2026 16:50:24 GMT",
-        "source": "FXEmpire",
-        "query": "US dollar index commodities"
-      },
-      {
-        "title": "USD had shoot up to 101 level, what does it means to stock, commodities, bond and crypto? - moomoo.com",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2o3SFlsYXQ2dm5ZU3lWSzhqZEJRZUhQMUtMclc5U21uNHViekpxOWVHbGhxclhqMUFFNzg3MTZoRGdXX2VuWjZfQkE4SktWVVA4OHN4SGxOOUVkTTRqYm5EbnFaaXJ2OFVjTHNKd2k3NUFkeTllWXhzdGZWMTBQQjg5TzlxOUJCLVRmZHlVYU1RLWZMOURpOUJscFc?oc=5",
-        "published": "Tue, 29 Sep 2026 16:20:35 GMT",
-        "source": "moomoo.com",
-        "query": "US dollar index commodities"
       }
     ],
     "Glencore": [
+      {
+        "title": "Berenberg Lifted Glencore\u2019s Target Ahead Of Key Updates - Finimize",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOGVZSmJKMWZaUm00c1RpeTd0MG5BU19COUpJZGxwNFJxLWQ5RFo0enNpb2Z3c29jTlVhTUctY3FqQ25GUGlnMmVMel85dTd3MHRQNGZVeVZ2Zy1rb1Y2ai1SNmZTb0pWUDN1RzM5RzQwUGcxblFWUDlsdTZiOV9uOTZoMExXSlE4VGlj?oc=5",
+        "published": "Wed, 30 Sep 2026 12:55:46 GMT",
+        "source": "Finimize",
+        "query": "Glencore"
+      },
+      {
+        "title": "Berenberg Lifts Glencore's PT, Maintains Buy Rating - marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQejc3YUFMUEFqb29aLWsyaEgzaVdMdnRkUUtnOEx0LTlYbUtDdWktVVNZYW1LUldIbWdXa2p1c3NIeXBFTDMybFRxaHhHc3JlZkZmUjlzMTdURzF3NG9pRFZrcWhpdUFiSXFDWG9iUGUta2owUmJqWk9LOGttZGRDT3dlWTk2ZzhrZFZmclA4N3FCTkhGcy1zQkZZUExiWm94eU9OOHdR?oc=5",
+        "published": "Wed, 30 Sep 2026 12:42:39 GMT",
+        "source": "marketscreener.com",
+        "query": "Glencore"
+      },
+      {
+        "title": "What Next For FTSE 100 Miner Glencore (LSE:GLEN) As Its Rio Tinto Deal Hopes Fade? - Kalkine Media",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOODBJSlZ3UXVkdm1pR3Yzbml3dUZ6UXVCLXhUaDFLazhlRzJsT3B0cEF0bWFZQ0k2M3c3SmN0MF9kNnhhRVVkR3M0WmFra0JEZXNTeVFKYWNScVdrS1RwMVA1N2VieGxmSExDNmVjNHJsNmZ5QjJ1dFNGNDVNNXV6eFp1SVJRa0JkVE5qTW1FcmszalduNzRNcmxOazJlSG81MUxwdlRMVjZIN2tsS1VPUFhSSG1NSUI3NVVfeUdpdFh1UlZCN3lZMkd0RQ?oc=5",
+        "published": "Wed, 30 Sep 2026 11:13:00 GMT",
+        "source": "Kalkine Media",
+        "query": "Glencore"
+      },
       {
         "title": "Glencore and Yancoal Receive Approval for Hunter Valley Coal Mine Expansion - Yahoo Finance UK",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONDZ2LTFJU1FST3lIdm1EVW9xOFUzc0cyRXpTZzBtczRIcnlJVGxVRUlRdzlWZDA0azlXVWQtOGpNNWdEWFlDbTMwSGxvSkg5LWlOekV2QzBnTzlkdXVacEQ1OWRoOHdpUDFZcUtfNzV2RnhQZzBqQXkyV1FydDRWeUg0Y3ZPT2RlNi1PYWN2d1NmMkk?oc=5",
@@ -445,7 +466,7 @@
       {
         "title": "Glencore and Yancoal win approval for Hunter Valley coal expansion - Investing.com",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXZ0d0FKU1RIUndWelRCZTRlX3Y0XzloT0NEV2c4NlBRQ05GXzZXa0VNWWZ3bFY1NHFWZzBUN2ozclpfMmN5WVplZTY1NDdHU1RXMGhHTm9fYm9yZHYwdXpsOTZITXlhZjJEelZHUlpNYkRjd3lkMGk5STRMVWtiMWM1OVR0N3BTYlpOQjJrS3hackpoTzVjV1V5U3U2cG15OEtUM3NkZE5fdXJlSVRvSjFzRjVYZTNfcTZFbVFFRWd1dk1keEM0?oc=5",
-        "published": "Wed, 30 Sep 2026 06:05:27 GMT",
+        "published": "Wed, 30 Sep 2026 06:06:15 GMT",
         "source": "Investing.com",
         "query": "Glencore"
       },
@@ -457,31 +478,10 @@
         "query": "Glencore"
       },
       {
-        "title": "Glencore expected ASX secondary listing date - Cyprus Shipping News",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVmc0MGU4MldyS2VPNEUxV2x4M1NBMFdYN2xubU03MmRTQi00SmRDRDk0MmJmVGxLMFE0bTZxTWlMdlRHU2pqN3h5amN4VDRDdW5tempnSmhPVVBuT3F2MUNCcnJ0ekNHZWhQa0YtMkcydVRYZlZHTzBGelY4UktmazQ2eUlhS3kwbUM5VDktTjM?oc=5",
-        "published": "Wed, 30 Sep 2026 02:31:43 GMT",
-        "source": "Cyprus Shipping News",
-        "query": "Glencore"
-      },
-      {
-        "title": "Glencore\u2019s Energy Trading Profits Soar on Iran War - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+        "title": "Glencore\u2019s Energy Trading Profits Soar on Iran War - Energy News, Top Headlines, Commentaries, Features & Events - energynow.com",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGFzX0JwYXRfbTBEVU05ZTU1eFcyZ05sdEEtT1UzZmQyTjRFUm1jdjk5NVp3SUdQYnp3Y0lQdDlPYi11bW5zMjl0SmRTYncyZTk4ak9fS0laREVsMGNRc0xiUE51RnR2V2N3Zk9MQVctRk1FMGxpT3hmTnRWWnkyM0FkS3pucnM?oc=5",
         "published": "Tue, 29 Sep 2026 23:05:40 GMT",
-        "source": "EnergyNow.com",
-        "query": "Glencore"
-      },
-      {
-        "title": "Why the City is backing Glencore and AstraZeneca - Interactive Investor",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2R5MGVZeTVScGpRMy1GMFRncHFqelUwZjhwX0RBTWpnV0NocDRZUUFWWGZWVzcyVnkyMTFOcTVzTXplOUtFMFZyTnZKNzFoX1RJTXRLVVdwU2FjZFJyVHdxTXphTXgxckRlR2dzazVURFpOdFVNOVJJYWQyMWdTanVoT1JpZTVGQ3V4VDJYMkhDbWlGRnc?oc=5",
-        "published": "Tue, 29 Sep 2026 11:57:00 GMT",
-        "source": "Interactive Investor",
-        "query": "Glencore"
-      },
-      {
-        "title": "Sapphire Minmetals aims to expedite $2 billion lawsuit against Glencore, chairman says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRGs0Zk5VcUFnYlFvckoyZE1jRVhHVzdKLXVaMUFmV1hWNjJITUdxYXZpMWdiaFBoMUNacDJfMDlfaGJBYlUxSUVnSFhEUWtEd0FEXzZiaE5wX3VRSFFuUlJ3VzdPU3ZnT3BNNWNZQWJkSjRHZTVieFJKVEN6TXlwQTFvRkZQeUpscmh5ZGFOVjFRTGd2U08yQmdrSmhabGdaSGNrb3R1cE9wcm5IWlhmY2tmUjd2SFlPcHktTlNzdk50MWVJWHloLQ?oc=5",
-        "published": "Mon, 28 Sep 2026 15:21:21 GMT",
-        "source": "Reuters",
+        "source": "energynow.com",
         "query": "Glencore"
       },
       {
@@ -494,10 +494,10 @@
     ],
     "Trading houses": [
       {
-        "title": "Glencore\u2019s Energy Trading Profits Soar on Iran War - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+        "title": "Glencore\u2019s Energy Trading Profits Soar on Iran War - Energy News, Top Headlines, Commentaries, Features & Events - energynow.com",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGFzX0JwYXRfbTBEVU05ZTU1eFcyZ05sdEEtT1UzZmQyTjRFUm1jdjk5NVp3SUdQYnp3Y0lQdDlPYi11bW5zMjl0SmRTYncyZTk4ak9fS0laREVsMGNRc0xiUE51RnR2V2N3Zk9MQVctRk1FMGxpT3hmTnRWWnkyM0FkS3pucnM?oc=5",
         "published": "Tue, 29 Sep 2026 23:05:40 GMT",
-        "source": "EnergyNow.com",
+        "source": "energynow.com",
         "query": "Trafigura OR Vitol OR Mercuria OR Gunvor trading profit"
       },
       {
