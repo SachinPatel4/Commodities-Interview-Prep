@@ -1,13 +1,27 @@
 {
   "date": "2026-10-18",
-  "fetched_at_utc": "2026-10-18T09:45:43+00:00",
+  "fetched_at_utc": "2026-10-18T12:27:02+00:00",
   "sectors": {
     "Oil": [
       {
-        "title": "OPEC Oil Output Rises in September - Egypt Oil & Gas",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oWmhvbVI5Sm5mWkNOdlFRQlNWYlE1aDN0TGxqSzNCdDFNUE1fbkNUaTBHSFNwWHY5NGgzVG5mVnpqOFNmNHFLZVdSLVlxUVRsOENMVk16cG1vcnZwSHo3RVNGc0ZQX0o4UnFsTjdQaHZIMVE?oc=5",
-        "published": "Sun, 18 Oct 2026 07:37:15 GMT",
-        "source": "Egypt Oil & Gas",
+        "title": "Crude Oil Surges Toward $110 a Barrel on Middle East Turmoil and Plunging U.S. Inventories - BigGo Finance",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2SkNCOThrQTI5eDdobU5pZ0VhOWZLRERFSlJDWEdveDdabGgxRDRLUjl4bDVDaG56aFhtSjM5M1A2bEpZZXV0Y2R2TVBldDkxYjVpdGdYNTZWRGMyWlBGMkFZTGpxYXlud2JvS1NrVEZodEdXU2c?oc=5",
+        "published": "Sun, 18 Oct 2026 11:25:00 GMT",
+        "source": "BigGo Finance",
+        "query": "Middle East oil supply Strait of Hormuz"
+      },
+      {
+        "title": "Inflation Shakes Fed Outlook Crude Oil Surges, Sanders Targets Oil Companies and More: This Week in Economy - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZFJwY0w4cFp2Vzk1amFmVGJxQ0REYjJQLTFzQXBuQ2MzaVptS2R0SzcwUkxpbFZJME91akczTllDeVVPNlVSdUxVemxwaTNCMXM5ekpUamxHME1TRVdQY3U2ei1CUWZ0cVYtNjRUYkVsQUdLaXpHczFUQVVuTmZqUnJVU1VnbWVIdzg2Z2dqeWdMLXVnZW03UlFsMDEzcEpUM0hzcVZNUmtOVkZUNWdPSXJETmJ0OTRDd3k1amd5eUFuclJDbWlMczFJdmdsd0ZzOHE4RUFtLU9jcTRxRzJuMUpFeGM5cXZvU29FZ0NIakNuUFRHMmpn?oc=5",
+        "published": "Sun, 18 Oct 2026 10:00:17 GMT",
+        "source": "TradingView",
+        "query": "Brent crude oil prices"
+      },
+      {
+        "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblh2X29kb1NJdzMxTE9ULXNPWGJSQU9WRnVZRGp2TjFmenVZRVByaUQyOUludU9ad0FhQ2FOMTNRUHFrTWNzYXJpa2ZZOUtDRHhRbGVBZVUwbVB6a3R6R0hPYTRjQ0JnT3o3T0dLR0RVTVVKYWEySV9aNGVyTXdvX0NDblRFNy1JaTlpLWgzTkdtQWtqbUFJ?oc=5",
+        "published": "Sun, 18 Oct 2026 09:07:43 GMT",
+        "source": "EnergyNow.com",
         "query": "OPEC+ output decision"
       },
       {
@@ -18,9 +32,9 @@
         "query": "Middle East oil supply Strait of Hormuz"
       },
       {
-        "title": "Russian \u2018shadow fleet\u2019 fakes locations to appear in two places at once - Financial Times",
+        "title": "Russian ships fake locations to appear in two places at once - Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3B4VFNfTHp1aWRoYWlIY05TenZ4eWI3OGwxSmhmSmR3cjdVdUU0MTBKamo2ZzJfZDBKTGVxcXQta1RfaVBaSVZEYWdEWmtoV2d1VGJsZFZVV2VXN0UwSkZ0a1M1WEpHZm5fZ3BlYjRhMW5zS1NESnBiQUtmeUNBaXNqU2M?oc=5",
-        "published": "Sun, 18 Oct 2026 04:00:18 GMT",
+        "published": "Sun, 18 Oct 2026 04:00:47 GMT",
         "source": "Financial Times",
         "query": "Russia oil sanctions tanker"
       },
@@ -37,13 +51,6 @@
         "published": "Sat, 17 Oct 2026 21:00:00 GMT",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "query": "Middle East oil supply Strait of Hormuz"
-      },
-      {
-        "title": "Brent crude nears $110 for first time since May as Middle East tensions deepen - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u0637\u0644\u0633",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGwwLUx6aTkzbUdPcjNCUGhtcXRFblBuUzh6cGoydnlrdVBGU0pxeFVyLWdmTmxpbnhhUjFZcUVZSGxQdVNtbUdoa18zNDJCaUpESXpvT09WeDR4ckV6WTBsR0NSZmJRMEVUdnJ1YVRzanRHNGotTDMxUU5Ed3l5Nm4xSnZRYXluX2t2Ml9RdWJOQUJ5em9rYkV4cFRtN2hicFE?oc=5",
-        "published": "Sat, 17 Oct 2026 17:36:21 GMT",
-        "source": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0627\u0637\u0644\u0633",
-        "query": "Brent crude oil prices"
       },
       {
         "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow\u2019s gas? - Al Jazeera",
@@ -63,13 +70,6 @@
         "title": "OPEC+ Likely to Again Raise Oil Output Targets From September, Sources Say - EnergyNow.com",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRXV0WU5ETGcyalNyUlRlUGM2bUl2TkJJbGxwLWo2eWczZEs5UG5MMTRySEw2eTVtVklvSFJWUTNfb0VLemFTb3ZuVS16cExWT3VxUFB5c3M5Nk5udGZJYzB0Y254a0NtalYxakRHbXh1V0JBWkxJRFdDNVpsXzYybE02U0YzaVBiNndwd2VMbHk0WGV3WFJjMloyWFZUTElGYm50Ymh3?oc=5",
         "published": "Sat, 17 Oct 2026 07:29:17 GMT",
-        "source": "EnergyNow.com",
-        "query": "OPEC+ output decision"
-      },
-      {
-        "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell - EnergyNow.com",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEpkd2NmQk53bE5KOXV2RkM5NlQ5d2owa1kxV3B4eHJlejNvVmt1WTIxQXdtemRQTW0yS0FZYnNwXzVMZG13aUR5bzNMWlVsVDRJUTk5elg5a3hfSm1yQ2szelA4Z1l5ek5laUxGVUNhUjZFQWJuUkVma09lS2d3elVLcWRJQUVUNk5IWUhlYnB2Nml0T3hmZ2JkZw?oc=5",
-        "published": "Sat, 17 Oct 2026 07:26:07 GMT",
         "source": "EnergyNow.com",
         "query": "OPEC+ output decision"
       }
@@ -148,6 +148,13 @@
     ],
     "Gas & LNG": [
       {
+        "title": "Qatar Brings LNG Tankers Into Hormuz Despite Shipping Slowdown - EnergyNow.com",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVFmSDFRemJEREhkQVBYZzN6VUhYeEh3QUUtY1A0VVQzcS12RVhDb2pXYnp1dVMwdnFOVEhiVUw4QUVIalhLc1pQeXl4em5RTTJ1NHlfbnFtQlByTUtPc0xra0gxbUhjd0MxRGxSS25KejdoN1R4Y3JsRm9FRnhqSGQ2Tnhyc3Nsc21YNFdiRC1SOUpXa2c0Ug?oc=5",
+        "published": "Sun, 18 Oct 2026 10:51:37 GMT",
+        "source": "EnergyNow.com",
+        "query": "Qatar LNG"
+      },
+      {
         "title": "Middle East LNG industry remains hostage of Iran war - Awani International",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZko5d1l3ZGhmaFRRVE9ZcHZDRndZNnBySkRrdEx1dHY4ZWdXLVhIaFV1cmpDekdFclBSR3FFd0dQWk5leWpUQTVfVXNaRjZlVHIyTUktWnZpZGFKcldtRHJQT0xUQkpuR25BVlJKUlJ0b2VpdlVNYzRzemEzcnFTUDFNVzc3MVZ1dm9aWV9EZ1dzcS1UQzAzZDFLV1VhMVNoQ2c?oc=5",
         "published": "Sun, 18 Oct 2026 03:30:25 GMT",
@@ -197,13 +204,6 @@
         "query": "Qatar LNG"
       },
       {
-        "title": "Qatar Brings LNG Tankers Into Hormuz Despite Shipping Slowdown - EnergyNow.com",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVFmSDFRemJEREhkQVBYZzN6VUhYeEh3QUUtY1A0VVQzcS12RVhDb2pXYnp1dVMwdnFOVEhiVUw4QUVIalhLc1pQeXl4em5RTTJ1NHlfbnFtQlByTUtPc0xra0gxbUhjd0MxRGxSS25KejdoN1R4Y3JsRm9FRnhqSGQ2Tnhyc3Nsc21YNFdiRC1SOUpXa2c0Ug?oc=5",
-        "published": "Sat, 17 Oct 2026 07:10:48 GMT",
-        "source": "EnergyNow.com",
-        "query": "Qatar LNG"
-      },
-      {
         "title": "135 Strikes, 84 Sites \u2014 Iran's Gulf Energy Campaign - https://houseofsaud.com/",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kRmVxRG9xTzlFc3pGUUMzX2R2cF9iNWkyOEk1MXBtMjJwVEJnM19ZVmlvOTN2TEdtd25CTnI2MjJHenJfWEZ1YzJ5ZzcxTHU2OG16RkNJd0xWcTFrbml5NDhGZnpCV0JYakc3Ti10Y1VOQQ?oc=5",
         "published": "Sat, 17 Oct 2026 04:18:43 GMT",
@@ -220,10 +220,10 @@
     ],
     "Coal": [
       {
-        "title": "Indian refiners\u2019 fuel exports to West surge 43% amid Russian crude imports - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNVp3R29SZXppNEFsOU0xMGpaOHhzZEs4cURLLWpwdUJCVHpjcjhOOHViRWs0eWVYV2NYZTJSWlhzMWc0Sl9QMjIwbk5Zck9HdnpJWnpBb29mYWlmRkRBNE5fWGpHT1BaYWlhLXFtR2E2Q0hDTGJWN3RTTzVHRXZRa2JvYUNkbkhzclZKaU1PSVhTX01Hc3Bjb25CRjFoa3lsd0VhSTVMSFdjbVVvNG1EMFhlXzlFYl9zWlV4aXZfR2VWLVMz0gHLAUFVX3lxTE9oNWFzcXVVNF9FMnB4X21sckdLMkpCOXZuZ1MzLXdjNVpXUFoxcjlRZGRBM185NVJQMXY0VEFCQ01YYkVZc01RVTVUdXMwR0lvLXljaGU0enRfUkdueXVXRERPSmtvYlBTSG9zSmVCWkZpWDhzbG00Ui1QTlNQLWJHaG5CR1gyR0RuN2tIaExEUDcyMlRuX0UxU0lEdkNDck5CWHlWbV9oWWEyTU41MHp6SnhjaXlIWklfUDVCQTI5dUJMaHRiNVczdmd3?oc=5",
-        "published": "Sun, 18 Oct 2026 06:59:46 GMT",
-        "source": "The Hindu",
+        "title": "India\u2019s Russian crude imports fall 13pc in September amid Middle East tensions - Telangana Today",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPenJ5ZWlCQ29CTGp3MkExMmpsVDF6ZThRcDViM2JjQXRTTjlkalNpaFpuS2o4SnJHMURkaVhpQk0zd1JqVEJKdTZ4bndaMXlSQnhHdkxVdzZEQ2NFZVk3a2hnakxETTVnX3lyX0tNdDRUaUNScDg1SzB0cnVwNG9wUVYxUE10SmVVQklUZXRNWGRMZlBJbjc4SWtsd1g2ZkgzZXJydnlBVQ?oc=5",
+        "published": "Sun, 18 Oct 2026 09:59:09 GMT",
+        "source": "Telangana Today",
         "query": "coal imports China India"
       },
       {
@@ -231,13 +231,6 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVXJueDRIUVFWTlpLMjhwRzN4LVk2UTZzSkNFcWxfYm1hbDdxcEdaQnJOYnRRQ0ZFTkRaWFJJdGR1eHdGUlYxVkVqR3g4dXNDZ1RibEQtYjlRdTFrbkRNaDBHZnJUUWFicFpIUVEtd25Fc1RISzhFdGhzb0NNb2x3YllibVo3UWtYMWRmc1ZyNVJfMU1rTS1UM1EwV3EybS1TWGdBSVd4cDRyZk1JclpwZlJiVVZxMF9DUnc0WF9HdlBxbnR3NUpN0gHMAUFVX3lxTFB2RUEwRjJBZnVONm9VcERjVDFqQ3B4eTd2YThmOVVyREphemdDS3dfS2RXZDZYbTVnRWM4SThrbmh6TjExZUxFbUZLM0Vha0xKck9EZmNFRlY3SVNRckx1Y2JrbHoxanhnaXpQTENzXy0ybUdNWm4tU3pXMkc1alRuTjFCaVZEZnNxWnV0YXBtQnpIbFZjOTZ5UkZpU1V4S3RkbGprVFhyYjFJbnJ1MzZjUmJBNDZSZnNnNFNzRlczWjYwNHkwYUR3RUdydQ?oc=5",
         "published": "Sun, 18 Oct 2026 05:38:28 GMT",
         "source": "Simply Wall Street",
-        "query": "thermal coal price"
-      },
-      {
-        "title": "Whitehaven (ASX:WHC) Earnings Check: Still Cheap After the Run? - Kalkine Media",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1JWeXVUSXdyaGUxakdLbTRZUXpzWjczRlRLd0NlSlNZQUJSZEtkeU1xMkVhMDlpV09KSjVCYUhVQUNDNkl5dUpGVVk0ek52UDAzM05LQWZDR2FOY3RJdTY0NEdRNjBwNjlfMlJ2RXFBaDd0cFZWTHlBN3hpX2ljOU5fU0JRYUhiTlN3R0V0ZFNUbGFiUzY5bms1ZDloVldSeGc?oc=5",
-        "published": "Sun, 18 Oct 2026 03:56:00 GMT",
-        "source": "Kalkine Media",
         "query": "thermal coal price"
       },
       {
@@ -288,6 +281,13 @@
         "published": "Fri, 16 Oct 2026 22:49:36 GMT",
         "source": "EnergyNow",
         "query": "Newcastle coal"
+      },
+      {
+        "title": "Glencore\u2019s arrival is good news for the ASX - Mining.com.au",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iOWN3aEppOW9EN0xNdEx2WEpHenN5YzNGSlBLRjRKWHE0SVBEVGRfcnNuZTgxSUZCc2NIN2VUZk5JLW9heVN1V1NKVmV2dGxJY0pWam9XVVRlMkNxTGFZdlV4N0NfYnBwNjVBbWN6Qy01M0k?oc=5",
+        "published": "Fri, 16 Oct 2026 21:35:31 GMT",
+        "source": "Mining.com.au",
+        "query": "thermal coal price"
       }
     ],
     "Agri": [
@@ -328,7 +328,7 @@
       },
       {
         "title": "The End of the Bull Market in Grains? - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTXJZT3ZWb29RdGN3bG1Yb1dhVmpBV21VOGE3YzZfNG1DNWQtS1NGNm5uRWhVV1AtOF9LMEhyVjBQUlpmMkVCVUp5YTZ1QlMzcXZjQW1jTDdqc2o0SWxJWnFMeXl5M3JGa0hUNjhSUjNlR196TEYtd3lWbVVaV1FRWjNoelpFN2FTZDQ2X2p5eENRb0EyNmt1NWc5SnVoSmV4eDBlcENlZDhmRy1jNWQ4U0oxT3JNTGZ2U19jYU1Xbw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRWFrMXZGMEFia2JsamZYNUhVZHNqclVPRDBmU3JRdXVtc25ZNkZSQlJuNmIxcTRuZmZDVXFodkdYSi03V1FaU2RtQ09UQkFnRE1SbmEwSnhzUkZab1d2M2tIY19FYmxncmZnQ0w4ZDRrdVZQR0FXMi1zV0k2VW8tVlFNbGtuTEc5LXl4bVJZaFRjUFdqRF9iXzlwb2lLSGZRVkJMZ09jT2FhWjJ5dGVSTzdGaWlsUEZtYU44VzBSMG8?oc=5",
         "published": "Sat, 17 Oct 2026 00:28:00 GMT",
         "source": "The Globe and Mail",
         "query": "corn soybean prices weather Brazil"
@@ -413,6 +413,13 @@
         "query": "US dollar index commodities"
       },
       {
+        "title": "Gold Futures Overview - CME Group",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WeDc1RGtZSl9sWTFkQXE5RFZpdVo3VkRJT08zLU5TSUVSQWpLTUNOR3RjZEwxY2hYNUdLUzdrV2xsdDY1OTlkcGJxM1pyaUNOSndxdDNuY2N0NXROM1psWERyeVVRZko1ZGc?oc=5",
+        "published": "Fri, 16 Oct 2026 10:03:45 GMT",
+        "source": "CME Group",
+        "query": "US dollar index commodities"
+      },
+      {
         "title": "Gold inches higher as dollar softens, investors eye Fed rate outlook By Investing.com - Investing.com Nigeria",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZWJvRW9yeFJoTUJrbVJSNFBDWmZjbkRHcTdma3MtQ2pPTGxTY2s1aEhRaWV2LUdDY3RfM1Z6TmtRMGpvcVA0ZG9zLUpKM3ZoRVZranYtRC14TnR4LXN4NXdnSWtGUTJUX2FzaFNlZ1VZdFF0Uk9QUG4yTFgwN1pRSUZoQ1dYTENIVWRHYlJ2aEt3WjB2RGVJbTNqeHVVNk93RmZvOE5JM1BzSi1DX29MWkRVZXkxVzZraklmTXpwNHpWVlBrZXI4ZERjTmtLeDg?oc=5",
         "published": "Fri, 16 Oct 2026 09:52:59 GMT",
@@ -425,28 +432,14 @@
         "published": "Fri, 16 Oct 2026 09:27:55 GMT",
         "source": "Yahoo Finance Singapore",
         "query": "Federal Reserve rate decision commodities"
-      },
-      {
-        "title": "Gold Advances as Treasury Yield Decline and Dollar Weakness Offset Interest Rate Concerns - Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdUxzVVRVRFJTQ1BLZEFPaGs4VWhIdFNWdXBNRUpOVlUwdWFHQzExYUpOQWlzbWJIN19kaTRvWEhJeGpXUFdPZHdIVXhFWDVJQzNKSjI1RlpHVXZzbDFIWjhJYktLWTktUzZ6SmRORGhXaFJ6Nno4WnlrWWFpNjY3ZUxKd3JVVkIxNVpjZnJB?oc=5",
-        "published": "Fri, 16 Oct 2026 09:06:42 GMT",
-        "source": "Yahoo Finance UK",
-        "query": "US dollar index commodities"
       }
     ],
     "Glencore": [
       {
-        "title": "GLENCORE CDI 1:1 [GLC] (GLC.AX) H2 FY2025 earnings call transcript - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObWFVbzJGTDhaRXdieHVsUmRQMDE2NkdpQi1RUU05TC1PVi1obnVJejJSMnJkek1fTkt6VXhfQjByN25xU1hMZmVCcXFlakJtNzY1enhLOElUamJNaWllbDlyRjl6YW9jNDFYR0RKR2hTeHdTY1dab3NUSU5sS29yYzdpSUpzZzVvN09jVkFHM1pJUQ?oc=5",
-        "published": "Sat, 17 Oct 2026 23:57:19 GMT",
-        "source": "Yahoo Finance",
-        "query": "Glencore"
-      },
-      {
-        "title": "Operating expenses (excl. COGS) of Glencore PLC Shs Chess Depository Interests Repr 1 Sh \u2013 ASX:GLC - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZkJ2Z3NNM0xnVE9Eb0xxUkdoWXhfNXEtR29abGprSC1yOUNzN2dZMWlXR2xUUEpQUGpXcTRfOFFFOFczX3VVOXAxT2dXbkxCNW9ua09pWklLYlRRaFpPWGV5d3ZLRlV1RFpiUTZLWEUtdnhTX3hsOGQ3X1ZMalhWSXg0UTBOUl9acmxJaE1oTHQtODEtdGc?oc=5",
-        "published": "Sat, 17 Oct 2026 22:24:53 GMT",
-        "source": "TradingView",
+        "title": "UBS sets AUD 13.40 target for Glencore stock - ad-hoc-news.de",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2lTQkJMMmJub3VvX2p4ZzM1bVNUMDBvYUNpTDd1YkdIMXJtekh4THNvNUtWdTBHOU0zbHJCRmFqOC02U083N0JRMnM4Vk54UzZiWmh5VHVmWHIyUGxaWHF2eTZGSDJ6TTEyeUMxdWRvMkRNOEluODhYMGY2OFFiU05pOS1QQm50eUVlYW5tQmgxZDhkMGk0b0pXRXgyeEtKMTlKMm5B?oc=5",
+        "published": "Sun, 18 Oct 2026 10:50:12 GMT",
+        "source": "ad-hoc-news.de",
         "query": "Glencore"
       },
       {
@@ -461,6 +454,20 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OclF0QU45X3ZobGNobzJETnVuTHFaV2lYb1plbWJKTmtfUjA1WVFUam9ucnlLMl85NThwVFdJM29YOTJTTWRQUE9COF9ZQjdXUWd0Nw?oc=5",
         "published": "Sat, 17 Oct 2026 04:20:42 GMT",
         "source": "Yahoo Finance UK",
+        "query": "Glencore"
+      },
+      {
+        "title": "CapEx per share of Glencore PLC Shs Chess Depository Interests Repr 1 Sh \u2013 FWB:8GC0 - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEtVVkRTNWwyczRtd1VqMFZhTnlvZEdBM2NSM0xQaG9OZHI3WFNOdjNlNEkyWmZxVFFxVEtpTVZNZ1RzVjJMQzY4ZEFwaXAtMHhFUGNBYlVWZ29lcFJGNkFncFpHV1k1X3NWNTZQOWpfVmE2a0phMy16T1JwN2hHSEtqVllYS1R1eG5RaUlkOGZIQ21IOUNqVzVR?oc=5",
+        "published": "Fri, 16 Oct 2026 23:11:39 GMT",
+        "source": "TradingView",
+        "query": "Glencore"
+      },
+      {
+        "title": "Glencore Share Price Targeting the Highs on UBS Buy Rating, as Australian Listing Opens Door to $4.4 Trillion Pension Market - FXLeaders",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTFk3UTNtRmZoSkRfNkhDZmZ1TUtlSGJJRHVWdHRHOVNNTURFSHlMQkpaa2ZYeXotSHc2TnRJU0pIVTFlWEVoT2ZtdU0xOXNOSkRFVUI4SVAzUFI5a0JyUjltcFRsZmxqWlZCT1FiYTN5aGFHVkhEZ2I2UzFLU1lwWXJURlQ3NWtDYVpjaW80UGE3Y2UzRkZQaWUtM3NxdU5QRnpfRllSWWZDNmplX2I1VDl5T3k1d2VubTFFSlc1ZU4zQWhQMUFwaEM1OS1DazQ1eHZzMjhEY0xzX3RDWFhEVjVFYnl0OFRCNTdlYWRSdV9xbzIwam9ndg?oc=5",
+        "published": "Fri, 16 Oct 2026 19:29:23 GMT",
+        "source": "FXLeaders",
         "query": "Glencore"
       },
       {
@@ -482,13 +489,6 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWHZuT2NjeU9qTTFreHEtZDZONUVKQVd3OHF4SXhaZGFldVh0b1dHLTNTR2hXZmR1S0V0anNSbDZyV3JmeERQSjIxbzNRalQ3d3o2V0pwbU1kMnJjYUZLOWQ3c2QtSFJsdVJReFkycmVtSGEzemIwRjJ6NXpYdmZpaXEzczctc3VEdEVJMW9UaEdETGdqSUlwSkc0YnNMaFZJbG1aX3FRQjFZNnA4dWgwVHNBTWxROUZYSFkwb1Y5OWE0N2x2aE9zTUh0RUJxQmliZWM4?oc=5",
         "published": "Fri, 16 Oct 2026 01:34:59 GMT",
         "source": "Proactive financial news",
-        "query": "Glencore"
-      },
-      {
-        "title": "Glencore plc (GLEN.L) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Td1A3djZtOENRcTRoM19SNVNZRlRpTnljS19kR1kxclpPaUNwRFdidU5YRlplMzVteTNrT2ptTVB0M01DaVppSnI3aDAtQzJNd3phdw?oc=5",
-        "published": "Thu, 15 Oct 2026 11:07:56 GMT",
-        "source": "Yahoo! Finance Canada",
         "query": "Glencore"
       }
     ],
