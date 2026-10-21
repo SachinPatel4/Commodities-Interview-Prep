@@ -1,0 +1,541 @@
+{
+  "date": "2026-10-21",
+  "fetched_at_utc": "2026-10-21T10:23:52+00:00",
+  "sectors": {
+    "Oil": [
+      {
+        "title": "Non-Iran Middle East oil exports recover to prewar levels with Hormuz alternatives - The National",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTjF0MXZFcFNwNDlkeUFTR2tiRWxfbVVsV2FwSzNUaTRsRWdkNkxqNDdodERmSHJoZTk4RkUzSzNYM2h3eGY2Q29RVnhUZGtabzRVQTVfYWp5SjBHWUY0d2tKWkVlal9GRlA3Y0JQTHRJX0ZXakpyZEY2RHFiN01IMkJ2TlhuVFhqdndMVkxEMTE5MlVXX2N6MGtJRnpOR1MxM2p0S1dxUWVWcWlTZXJjRnFRdXhYbWZ4QUdFNnVQdFF5c0FaWjJZREl6NDVfVjQ2WDFETkV3YkVEQQ?oc=5",
+        "published": "Wed, 21 Oct 2026 09:56:15 GMT",
+        "source": "The National",
+        "query": "Middle East oil supply Strait of Hormuz"
+      },
+      {
+        "title": "Global Oil Surge: Brent Surpasses $110 Amid Middle East Supply Fears and Shrinking US Reserves - QRNews",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONE13WWJuRjdGNTJfV2V2aGY1N1pza2xMTl9hRDBVTzE2djNYUmYxdGdMSzFTNmJSZmZEdWJ5SlZBWFNCVDVVTlBvTDJjczdRUmtGLW1HeDkwOUZSX0JoN0FEd05LZ29yclJzeVZJbHNDNmJXUDR1empqV1lRT0EtOUhQVWFwWjZZZFFjR2xTTjZkNGRIdXo2MW1ab1ZfcEd3UjB6VVpIcG9KeEIyZXNrMkp2WDA0NVhDRmlGakFTcGVHZw?oc=5",
+        "published": "Wed, 21 Oct 2026 08:17:50 GMT",
+        "source": "QRNews",
+        "query": "Middle East oil supply Strait of Hormuz"
+      },
+      {
+        "title": "Oil Prices Rise as Hormuz Shipping Risks Persist - WSJ",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUThvQVl1RnVpSjI0NnV3VGhRWUU2eWVmOC01c3hpOXJ6eTR0OXNUOTh3VE1vNW1jNFlobjF6QmJRcDc5eF9nbTZQbngzUlZWbWJ6aXpSYndoNHhsRVFoWURGWHF1WmwwOS1QUTRyTmgwaUZLVlB0UTJqMmUyTTY0SnluSUhTVGR4anFHZGhMTUItM3I5VUlIZkhRVEQydw?oc=5",
+        "published": "Wed, 21 Oct 2026 06:52:00 GMT",
+        "source": "WSJ",
+        "query": "Middle East oil supply Strait of Hormuz"
+      },
+      {
+        "title": "Crude Oil Rally Faces Resistance as WTI and Brent Lose Momentum - FOREX.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUJnMnFjSHdUX0U4dGF5Nkk4QzRTOWFhRy1Qb0RfTWF4SDFsUHIxSnNjZllmMFEwczZpNkpJU0pfS0xVdlpZSVIxaUcwWmhHMWF4b0VHSW43U3VhUzBCdFRTbmhTUFFnXzYzSlBJR1ZraUd2VGxjckY0NnJxVC1rN2tSWW5IWU1kU3VoMHJ6ZVNRTTNub3FGX1dHSDR2RUZ6bVR0SVJTUFh2UFpxZVVv0gG7AUFVX3lxTE5pTWN5MzZJZ1k1NzEyUVVpX0RSWmpvbEZ6Uk10X3ZxT2lxMDVyS21BMnhzVzV4WHc3RXZKNVo1Wi1DM3Nlbk9GNjBkMzhjS0ExOWZ6TEg4LWlmWWduX09rMFpQQVFqblFTcXl3azlqeHlnVENEcFM5YU4yZTFQcXk3UWlKYzlQOFVHaXp4ZVo4dXZ3VXBRSU5nY3JHUFU5TDlkc2FudVh2aEQyNlhPYlBWVFpFX0JQejlxcXM?oc=5",
+        "published": "Wed, 21 Oct 2026 06:11:57 GMT",
+        "source": "FOREX.com",
+        "query": "Brent crude oil prices"
+      },
+      {
+        "title": "Oil prices climb as traders assess Middle East developments - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGJ5Y1pPUDFBa2J6dUEwc0RnYmVRWnNFQmhTNjhsa1ItUVBFZG14cGVzTU1kZ205RDN4Mmcyd1pzQjRJNGl6N2F1Nng2WlBGSWVZd2JBSXVYWmFNTnpZRWxBZTVqUmdaVFNRRUEwczJtcC1PcnhDSkN3RXU2eWllNlZGcFQyQzVzaXA3V09PTXYwVVAx0gGaAUFVX3lxTE95am5EZGd5cEZod2RCX0FMZTdIOE1paDJvTUQ2OERsckxsYVZON19rZ0JWbTZYWDhVZXlqU0dNRm0ydlp6dUVxQkcwU1VtbWFRWE9kRk5PLUNubG9MSWF5anBIQThhQ0FKS0UzaHVRdXRRN0V2Nkl2SFVHV05JaThJZFlMT2tsY1ZxdUxDUUJZRFBpN1hHSjJ2TkE?oc=5",
+        "published": "Wed, 21 Oct 2026 05:27:19 GMT",
+        "source": "CNBC",
+        "query": "Brent crude oil prices"
+      },
+      {
+        "title": "WTI holds gains above $98.50 amid Middle East supply risks - FXStreet",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlYxY1BOZHpOalU5TThYYXNHd2U5TmRMT2htQ0pVeFBjZ0lJY1NsNlpiUzVBM1BJejZhSHE2cHB0SjRRMktZWnFvU0I0eks0YTVnTkxESi1wVzN1TzBvUEo4VzdXNl9COVNaM05FVmcwUDlpak82UHlQQWtZclJvU0FremtneEdDc2VOblNIN3I4d1R2X09XSHdtdDBpR2VL?oc=5",
+        "published": "Wed, 21 Oct 2026 01:30:12 GMT",
+        "source": "FXStreet",
+        "query": "Middle East oil supply Strait of Hormuz"
+      },
+      {
+        "title": "Oil prices rise on M.East tensions, U.S. inventory draw - Yahoo Finance UK",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Gb2plcm1IazdIXzFEME9jTHYxcVZ2cWk5Yk9EVTdiT2hucjJ5YVEyRkdHV2ZNSS0xbkZWd1VEY2t2eHpaOHNwTHcwRlU1bmZYcFdWWlVNWWcxLWFfTktCSHp2b3BCYVpjVXU2d0N0bVBheWVrbm1WNVNGVQ?oc=5",
+        "published": "Wed, 21 Oct 2026 01:22:00 GMT",
+        "source": "Yahoo Finance UK",
+        "query": "Middle East oil supply Strait of Hormuz"
+      },
+      {
+        "title": "Brent oil prices near 5-month high on Middle East supply fears, US inventory drawdowns - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTdIRmp3MTB3c3JZNGxXMUl1Wk5haXFwcjdJNXgtQnJkOEM4aWVVWG5tai03TmhHSWZidkliV1VlRkRvOVJCX3Q3QXhCWVdZeXlYQmViOUdOaU85anVWMXpSWFNCOHAtVU5id3Fad1BhX1BzVEt6S1A4N2s1YjJocFh6QXFTVXhHdDJJVzZBX21WUQ?oc=5",
+        "published": "Wed, 21 Oct 2026 00:50:00 GMT",
+        "source": "Reuters",
+        "query": "Brent crude oil prices"
+      },
+      {
+        "title": "Korea cushions Iran war oil supply shock as Japan's imports plunge - Korea JoongAng Daily",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeE01ZWhiV2s4cUhaODJHdDl6d3FtUFRXNElTeElkcEFqVnlTUmQ5d2otS0JfUk9iXzA3RjE2UkwwclNRbGxES255X1JwQjVERXp4ZUJKbzF2V2NnOTJRRnJMWEFBMmF3SHBMbzI0c0p0TEJGU1VEMDVzaE82WFZwZzZlRXVyRnNETUlHU2Z3bjc3Z0ttNmJxVVVxUjBjZW9VUkp3bElmUTVyam1GbWVLTm0zWktjVGplb2c?oc=5",
+        "published": "Tue, 20 Oct 2026 22:00:35 GMT",
+        "source": "Korea JoongAng Daily",
+        "query": "Middle East oil supply Strait of Hormuz"
+      },
+      {
+        "title": "Suffocating U.S. & Western Pressure May Finally Force Russian Oil Output Cuts: Bousso - EnergyNow.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT09KSmY4T2xlZl81cVY2SGpBb0tsTElxcmY0Y1E5TC1BdWRqcmVwTklPWmx0N0J1RHVfWk1kcWhTNFdqV080dHdpRnBCUWZfVHJtcGdLdGlyS0lPcmwyNW9sdEZYTUJKZDY3eTRfZ3hYNjViNjF5SVE4MnNoMFg0SkNTNlo0S0ZYRGQxaFgyV25jUVRfOWR3Zk5MUWFoblNRSWF2eFhCeGtpc09zQUd1T1Bn?oc=5",
+        "published": "Tue, 20 Oct 2026 21:56:32 GMT",
+        "source": "EnergyNow.com",
+        "query": "Russia oil sanctions tanker"
+      }
+    ],
+    "Metals": [
+      {
+        "title": "China's September 2026 copper cathode imports rebound, net imports up 29.38% MoM [SMM Analysis] - Shanghai Metals Market",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLVZMQ2RZODhhUUkzYjdfd0gta0VwQTQ1N2tCWURXQ3RYaHl1QVBWNkxnN21LNk5CRjh0cGFhOUJNN2xBVnFyQ0tNdHIwVVBNN2w2ekRyR2E4c1RhOTZwbE9DYkpUdVBEZmdSWVBaVXp6YzdUVlVxRXRabHRKbHFlUU5ubmJ5NElybXFYNUNqVXVSN2lCLVZUUXcwUXhkRzh5LWNLWExrZjBvTm9VSFlvak1FRXNDcDM5eUtEOExsQnJIZWh5THB0Qk05N1RKZkRiUFgw?oc=5",
+        "published": "Wed, 21 Oct 2026 07:39:00 GMT",
+        "source": "Shanghai Metals Market",
+        "query": "China copper demand smelter"
+      },
+      {
+        "title": "\u2018It\u2019s time to put tariffs on Chinese electric vehicles\u2019 - LabourList",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT1pTMFQ2M0dCS19rMkd4bE1NNTRXSlJtSTVMMm1fenZMdFEzbVo4OFlhSVZ1a3pfbkxzbHg2Q0FHQnM2dGxZdml4UXJFUk53a1hmejVwUHQ2bzdCcnlOeFFGTGVxOGJtSHJ4Q0lkMHluNUhBR2wxLUU1MUp1ZWVXb0Vn0gGCAUFVX3lxTE9PWlMwVDYzR0JLX2syR3hsTU01NFdKUm1JNUwybV96dkx0UTNtWjg4WWFJVnVrel9uTHNseDZDQUdCczZ0bFl2aXhRckVSTndrWGZ6NXBQdDZvN0JyeU54UUZMZXE4Ym1IcnhDSWQweW41SEFHbDEtRTUxSnVlZVdvRWc?oc=5",
+        "published": "Wed, 21 Oct 2026 05:00:13 GMT",
+        "source": "LabourList",
+        "query": "aluminium tariffs"
+      },
+      {
+        "title": "US-Mexico trade talks stall over metal, auto tariffs; deal faces delay - CNBC TV18",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM3RJb3NQcmhrY1U3Nm9sOUU4OFhvaTF3dFpCb1hCOWZFN19IZWwxM0lLX0pCQ2lMbm0yYjVBMVR4ZURVeE9qVl83Tmo4OVVUWURFWm1uem1NNkE0ekl5TV8yVXNaWE9McFRNSjRyUzlfNzRxMHQwZ3pCNm9uSFdZYnlhdVZsOXhLX2xNR0lrMW9IRlJxR0NfMzYyN2VfeFNJOHVPbWg2VkQxcWNsVFI5SDlB0gG3AUFVX3lxTE9LOGNCQ1Z0MlQzVE9SWFVINWVWWHZub3dteDBhbDNHVjk0TFhabGZ3ODRjclBwRkpyamtIRUM1ZU5PdUpaTkstOWNZYUdvRXdxekZTUFp0S3VfS1AteEY2UVpueU1PNmJXdjhicmpiTnBORXlHWnpPNXpvV1JOaTB5V0dPdm84bU5uT1FYNUpkX1RrQy1VTWpDWnRqWmtWaXFHUHF0VjluSjVMTVo2anBBbjUtaVE0QQ?oc=5",
+        "published": "Wed, 21 Oct 2026 02:48:55 GMT",
+        "source": "CNBC TV18",
+        "query": "aluminium tariffs"
+      },
+      {
+        "title": "Mexico's front-running shows initial signs of fading; September aluminum plate/sheet and strip exports stabilize MoM - Shanghai Metals Market",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLUJkWHEtb3BBUWdSY1BKUThpZEdmMUltWnlVQVhIYVBJaGZLN2FzMVA0N25yUjZVdGg4Z3RIQ1VrVmVVaTJ3RzR2bHRxWkR1dUw3MjU5cUlNR2JVRENXYXB1U1VCX2hlVVgtNzJYa0pWeDRpc0RTenhvWlhwSDBrc0o3SHN2M3ltVEg2OTFRUzllM3N2VU9iSTVKRDlyTWdEQTZoa243UElfWlhqSHJJQ05BMi1aVUpEUEhhaHVLVkc1akhteTdnOFlkalRMUkVmQWVURVplc21LTXRVT3ZnSjZ5XzNfc0Y5akRsLUdQMA?oc=5",
+        "published": "Wed, 21 Oct 2026 02:40:00 GMT",
+        "source": "Shanghai Metals Market",
+        "query": "aluminium tariffs"
+      },
+      {
+        "title": "\"Aluminum King\" Returns to Copper: McNess Bets Big on Front-Month Contracts in Wager on Trump Tariffs - BigGo Finance",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11YjlHNG5aUU5PZkYtWUVKbkF3V2duZUdWbE1ORnBMb3pnbHZoS21SQnJNVHNFZkU3VllYZXFzU1B0UmZ0YTlJQ1QtdUdDNDZfaWU2XzBBRXNoT0d1U25BTkdSMU1DV1NnaUV4MC1zSVN5NWQyVVE?oc=5",
+        "published": "Wed, 21 Oct 2026 00:35:00 GMT",
+        "source": "BigGo Finance",
+        "query": "LME copper price"
+      },
+      {
+        "title": "Tokayev meets CNMC chairman over Kazakhstan's $1.8bn copper plant - DKNews.kz",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTzFiR1dKUU9VOVNldGZ4akdxR0hLMGh5NlAzTXBFcENvNFg1aENEUjJCdnpWMEQzS2NmVDVuNkFDZ2JQdHlFTjVLSS1XQ24xV3ItTTl2SWc0M0Y1NTY4VWNBSDdCVGVpLTV0RHQ0XzZ5UlFEc2ZNc2pJSE5ZRlhHODU2VEc1YnB3WTFhekN6bFdqd1V6QnlBMTc4S2dLaThk?oc=5",
+        "published": "Tue, 20 Oct 2026 17:59:00 GMT",
+        "source": "DKNews.kz",
+        "query": "China copper demand smelter"
+      },
+      {
+        "title": "LME Copper Options Open Interest Climbs as Futures Prove Too Volatile - StoneX",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUURBVXVmTXJQOUdQTW5PSEJ5eHN0bjAySEdPWjhBYU1YdEtaeGpEV2V3Z3BSdEsyMW5xQkZWaDFZOVRJamJBdEthQks5WjdFMXJIX2NVOC04aTl1a2RzVl9jRk9QYlU3ZDNNa2l0VUp3SzRWTnhpblo3amFFbWZoNDd2QjNDSlRYWUxDUmkzUEZ3NkZ5eUx4am42Y3JmLWMzbmwwcVFGN18?oc=5",
+        "published": "Tue, 20 Oct 2026 17:33:46 GMT",
+        "source": "StoneX",
+        "query": "LME copper price"
+      },
+      {
+        "title": "Copper surplus masks looming $332B mine shortfall - Mining.com",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92N1hsMWtQeHdxNnM1VmhfeHBNM2ZrSW1oQ1dZZU9BSG04bVpNeFZobGhIMEtieEYwZkVQcXFnd3VrVXNOZjgwZVZyNUx1VVhIS29yeXdTUVdtQ2ltbTM5cjI0alMtbWktS0xleHgxUTB4SU5qWnY5ZVV3NG4?oc=5",
+        "published": "Tue, 20 Oct 2026 15:00:52 GMT",
+        "source": "Mining.com",
+        "query": "China copper demand smelter"
+      },
+      {
+        "title": "Forget TACO. Trump\u2019s Best Mexican Food Acronym is TAMALES: Russell - EnergyNow.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2JwRUFnODNzSzNPTUQtaHRremg1UWl6dnBTd0FjWklSMFFnUG1tN3lBdmw0bDdDcWEzdjBocHU0VmJRY0xKRmZuakVFaWVLeWZtNDJaSWxTSkdlODlzWXpsb2ZpNlR5ZlBaM3doRUdpb3BxaWFpOUtPXzNxeVY4MDUwU3ZYckUtenRJb3Nuay05aUhhaXlLM1ln?oc=5",
+        "published": "Tue, 20 Oct 2026 14:58:26 GMT",
+        "source": "EnergyNow.com",
+        "query": "aluminium tariffs"
+      },
+      {
+        "title": "LME Week: Copper supply struggles to keep pace with electrification demand - S&P Global",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLXRmRWZCaW5zRnlvVmlEVzlzakMzMFpPRGJubDZFejlKYkgycUkwRmc4eW1SY1A4QnA5NHdPSWdlVzJNb3lYak9NT0JxaXBfdlhLTjVSWnI5dHZjbU1JM21mX0E3SjVyR3lzUEhmU3BKWGVJMTFxYmpDZU1RcjRoekF3RHhiSG9XOW5pd09ybXB2SzZHcjZ5cktjU3A5QWgwTWZabWZqZWFaZ0ZrUlVyTzc3eEl3em1qQTYzWGU1T1pzMk9HZjV2OGRIc3JndlhNNzdENktXMWlWTW5kRnl0Q2d3?oc=5",
+        "published": "Tue, 20 Oct 2026 14:08:30 GMT",
+        "source": "S&P Global",
+        "query": "LME copper price"
+      }
+    ],
+    "Gas & LNG": [
+      {
+        "title": "European natural gas prices top 90 euros/MWh, highest since late 2022 - \u5df4\u58eb\u7684\u5831",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZXl5RW1GclFoTU8xYlBRZlJ4WWg4TkllVS16ZVBNS0lvOVBtSUNlbGZXU3pJbmRaNGlnMEZmZE5Kblc5NEcwcFRGNHZZb1E1aEMtdHVoUlJXQVctdGZRd1ZIT0RWVy1Fdkt0cE1LaUdZVno4bHZiV0NEbzk3SFB2cEJqeGNXNGZjXzZYSGx3cWJzY1AzZXhPNHpnNHpjU2JIQ2NWaGUyMXpYRjJWU01kUks3WG9LTkJpWFE0UQ?oc=5",
+        "published": "Wed, 21 Oct 2026 03:54:00 GMT",
+        "source": "\u5df4\u58eb\u7684\u5831",
+        "query": "TTF gas price Europe storage"
+      },
+      {
+        "title": "Gas prices in Europe have peaked since the end of 2022 - \u0418\u0410 \u041e\u0440\u0435\u0430\u043d\u0434\u0430-\u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdUk2amkxLU56SkduX0Z5TEI2Mkl1WldQdV8teXoyLVBlU1YzcDdQM2taOVFaTjVsMHY2Q2xrQ1Y2R181TVZtcmZ6VDJhMVVycnRKeGlVU3k0ejhjWVV6QWRlN0NqRUQwODBQZjNGNWdJVDlYZmFpek5MQUUtYUJEbWkyNFBfU2xXTmZYNGdBanhCcGRzYXV1OFhYNENTWURQVGxRTExKaHItQQ?oc=5",
+        "published": "Wed, 21 Oct 2026 03:50:44 GMT",
+        "source": "\u0418\u0410 \u041e\u0440\u0435\u0430\u043d\u0434\u0430-\u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+        "query": "TTF gas price Europe storage"
+      },
+      {
+        "title": "Why the EU\u2019s Russian LNG Ban Will Outlast the Hormuz Winter - Modern Diplomacy",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQemJiZHpUZklyZFpTVTFpODdhSklfTEQzMUcwWUFHLTVnVzZOTEhnQUJPd2M2R09YdW5kUl9QU3F2d1VOaklmTVlmS255YjViMnRIZkpwNGF3SXFHLXlOYWQ1TmZoQWpxVC1vTXByaHFmNUZJU0JtcTJtU1lSQ3BTQ2dULW4?oc=5",
+        "published": "Wed, 21 Oct 2026 02:00:14 GMT",
+        "source": "Modern Diplomacy",
+        "query": "TTF gas price Europe storage"
+      },
+      {
+        "title": "QatarEnergy Buys 33 US LNG Cargoes to Offset Hormuz Disruption - EnergyNow.com",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHMwRFdQa0ZINzNVUjF5YmpaV1gyTllsZmlRYWZXSEF6NXgySWVaUVF0cnE5YkZvRzJjbVRLRmEtdnd4aUJmWGc1aHZ0b3IwdDk5U2tIdzBwTEpNQlRzei0tR2lIeFdvWG5RNVBuWlZmWGs5VlZCVlEwaXVfVnpnelhuY2xObzN1ZkVWeUxHdUJxVy15NnpXMQ?oc=5",
+        "published": "Tue, 20 Oct 2026 22:19:43 GMT",
+        "source": "EnergyNow.com",
+        "query": "Qatar LNG"
+      },
+      {
+        "title": "Qatar LNG Cargo Appears Bound for Europe via Red Sea - Energy Intelligence",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5saW1RbXc3clRkOFRtSGY3bVB0ZTFVX3lOUktna09IYXppc052UVFHU0ltVU9OcFJsM2pVeDdwRFdVUU1QaTNReGJveUJEc0JlY1JIdl9hM2hXR05Xei1lX0Y2UUNSNEh4Q0ktdFZQUlFlZw?oc=5",
+        "published": "Tue, 20 Oct 2026 22:13:34 GMT",
+        "source": "Energy Intelligence",
+        "query": "Qatar LNG"
+      },
+      {
+        "title": "US LNG Exports to Europe Decline as Asia Prices Surge - EnergyNow.com",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLTEwa0duaFFia2doY00zNmg4MTdQOVdObHlvWEx0dnBiMjRDZkgxU0IyOFBqVmRKcmFVZ0p5cTBKSV9TWEwtbU1zckNlMHBmQnJGSURmU01vWjFwc1ZKcVFPOExfd3FLQWV5MFZOTE9DYmp4VXJJZlJDd3pHTExxSHAyZ0Z0YXZzTGMwNA?oc=5",
+        "published": "Tue, 20 Oct 2026 21:31:41 GMT",
+        "source": "EnergyNow.com",
+        "query": "LNG cargo Asia JKM"
+      },
+      {
+        "title": "Qatar pitches two power plants, LNG, and renewables to fix Lebanon\u2019s grid - EnterpriseAM",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUjhWdVNtemtVYVBLdkNTWXdnc0tLLTN2aTNhb2ZDYWJfc1JsRjJEdHlOMmM5WlZ4ZEdFOHlIZnpYM2pQN0JNVGg3OTlCOW10UXl4d3gzendTc2VxbDhtYl9PWFdjeUR4TmFtNDNsQms5RUJ0Wk53N25oOE1KT2xkWDM2Mkp3akZ4TUVTaHphb3A4eXhkR3gySXBKaWx4UVpnUVFFWHc2dGRkemJYQnhjOUxiRkdxa3c?oc=5",
+        "published": "Tue, 20 Oct 2026 21:00:00 GMT",
+        "source": "EnterpriseAM",
+        "query": "Qatar LNG"
+      },
+      {
+        "title": "EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis - Crude Oil Prices Today | OilPrice.com",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX0gyS2pJYjQwMlpiVy1EX0k4M2pHVTJ2ejU0ZGFMTkNiZjRaU1k2VnZYeTIxRlNLNnRYRlpsNVNqRVpqT2JmdzdPQk9EV012eXE5VkRlVko1QkRhRUw2cWdyaEFBa2k3QThGS1hXR1ctVHd1Q3IxQUFXa2pzMFlkWW5NMHlZTWN1QVRYckJiZ2VlZXA5eVQ3cXRCeGJBX2Nkd3lvSnlsNFJFWVpEVDE2N01BT1hBVDNyZWFUZ2tGaEQ5UDNLYmRB0gHMAUFVX3lxTE04Yjhxc0ZJVlJiY0ZneFJlWTFya0tqemNGYmRHT3pPLWtRY3d2Z0UtUGQ5TXJUNDdEeFdZLXhKT3E2YlEtd3AtbWlMQWRpUXhFSFBYMTZOTTVfQzN3cWp0U1hqNWxDdDdVMU9lakUyTlBwRXFPQm11VkJ2NEhabk5Vc0tOaFlNYnBwQ0U4d1R4eTFYWGtyTU4zMmF2SmwwOGVLWlB6clMxWUVSZlNsU2lsVThRVEh4VUlTSkQ5aVlmRGVQcHBVeU9OVWtkTA?oc=5",
+        "published": "Tue, 20 Oct 2026 17:45:00 GMT",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "query": "TTF gas price Europe storage"
+      },
+      {
+        "title": "European Natural Gas Prices Surge Past \u20ac88 per Megawatt-Hour as Analysts Say Market Overstates Supply Gap - BigGo Finance",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZLVl4c2FYWkVWdFNkOENobFhXTjhBX2k1STRSZ24yekMxb19ndXZCS0J3MWNnd2xSc2tVa1VSM2hGUUpoUWlMUmU4NDVrZVltMVVhRUtXQTdZY0hKMVVjVXlkZVhlYVlSaFlLcTNGVEdScUN1cHc?oc=5",
+        "published": "Tue, 20 Oct 2026 15:35:00 GMT",
+        "source": "BigGo Finance",
+        "query": "TTF gas price Europe storage"
+      },
+      {
+        "title": "Red Sea LNG crossing signals higher Qatari risk appetite - Montel News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTFOT0xVUi1IeGR3YlhkS1lraGVsOGlXN2J1RVpxZlVtMXlEUnBDTklvM2E4dkotYUw3SEdpVWJmTUdrTkRkb0s4TlFWQm0yRFZsVWNmdXBlMkJuMURLY2RiYVV5bVR2cjdJR0x2dU96UENWMU9GeS1PRnVVMzJKOXFxaXpOd1NOeVRESlZ3Y3lON3BZQVZmTHdaMUhwcE84QWhya083WGpyUnRWY2JfdHlHYlJsdmRHRWstSzF3?oc=5",
+        "published": "Tue, 20 Oct 2026 14:09:18 GMT",
+        "source": "Montel News",
+        "query": "Qatar LNG"
+      }
+    ],
+    "Coal": [
+      {
+        "title": "Seaborne coal trade rebounds as Hormuz turns Asia away from LNG - Seatrade Maritime News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZFZncjN3V1ByOUdYUW1PSFBKX0hXLXhEeGtraWNIc3NSem42X1pWYnAzS3NTOXRfYlRISVNNWV81SlNwWUxKTUFrd0ozODdUcW92TEpCd1k3Y2h4c1dGdnZrRm1oeVZSSFF2bHVzQ3IzR0xKdXBkZWR3OUg5UGpiYlpZa0hSemY4QWhsaGxBR0ZLREJ6WDlzSTY3R2pfV000YWFGZnZtazV3QQ?oc=5",
+        "published": "Wed, 21 Oct 2026 06:03:03 GMT",
+        "source": "Seatrade Maritime News",
+        "query": "coal imports China India"
+      },
+      {
+        "title": "Earnings call transcript: Yancoal Australia Q3 2026 cash jumps on stronger coal prices - Investing.com Canada",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY3ZCMVhLRERuZlA3anVyOVRPMWVyN3ROQURrTWhxR0FrcUc3NmR6TjJYZDJGMEJKT0h0MHp0cUZTTVhPMXdDb0lxYjFjRFdmR1hOU1d2QXJIX0pXX1dQYVJ2Vzh6U1JKblVCeDA0cDUtUmlyQjdnejk2VDZnQlZJQXhxX3hEbTFGcTRLV0x4Sy1BRkhRbFFqRGl3a3A0ajR1OE1PaTNWeEwtcEVNeWVPSUFKdE8zSDdkcE9fdWoxVkhnWXpRN1BFc0dzd0NQVzVuMnE0UXJGTFNoRHhBdXhZ?oc=5",
+        "published": "Wed, 21 Oct 2026 02:01:51 GMT",
+        "source": "Investing.com Canada",
+        "query": "coking coal price"
+      },
+      {
+        "title": "Clinch Resources Ramps West Virginia Met Coal Output as Policies Favor Domestic Supply - Streetwise Reports",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcFpSMDZRd181R2RKY1lfN05YRm1CYW4yT2l6NWN0d1V0SXhBajlrdU9zWlNyVm9UTnFPSEp3MVBsaEI5d0loZ0ZPRzQtWGE3b0FybUVsaEJvLWlfQ1pCRVQxcHFvZ3pMdFE1dldZMEd6TnFPei1NTjg3by1RTXJhUGV1TTBXNXdqRjd3NkF5YVNEeExsQ0ZoWDVaOXlnQnVnTDZBdUhKbUozTkdsTjk2UUxiTnFNd01BaGtOdW9zLWxNcV9ONmNGOEFVX2hacmhveVRXaDJPMjB5X1cy?oc=5",
+        "published": "Wed, 21 Oct 2026 01:33:49 GMT",
+        "source": "Streetwise Reports",
+        "query": "coking coal price"
+      },
+      {
+        "title": "China Energy and Emissions Trends \u2013 September 2026 snapshot - Centre for Research on Energy and Clean Air",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2k3Y0t1YlgyWnFOMEFkM2dqZkcxYy0xS0UzUDU4TTdXbjZTSWJ5bkdGSXhXaERyMGJCRmFmWkNUNl92QUc0ZDBtTDVSM1lxSk1VSFlLOXAxV1RTYVpBRkFoYnRUMERRcHRqVnRVMDl1U2FudWNKODE1cEpYUXlocjg0SV8xaWRFQURpd3lvN3BEZw?oc=5",
+        "published": "Wed, 21 Oct 2026 01:07:56 GMT",
+        "source": "Centre for Research on Energy and Clean Air",
+        "query": "coal imports China India"
+      },
+      {
+        "title": "China Imports the Most Energy, But is Best Placed on Iran: Russell - EnergyNow",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUpGdUo4WFIybk9fRm1CYUNqVVFqMXhYcXI4Z2NZbFhpYVRqZDkxcTFfdm9mdkpuN1dtZnBpWHkwRnAtTDdYWlVhQVd5bEVxd0lkVmY4YTVyWGctUmplbjNxQ0Nxdm5qblZUbHR3NzRieGxGb3J4a3dHUlg5TWdjOEtBaUZZY1dFeFp2M3k5MG1fV0ZVT2VtYi1B?oc=5",
+        "published": "Wed, 21 Oct 2026 00:50:35 GMT",
+        "source": "EnergyNow",
+        "query": "Newcastle coal"
+      },
+      {
+        "title": "'I don't imagine that scenario would come up again': Minns rules out more interventions to save coal jobs - inkl",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTnBkRzUtcS1iNUREODdmVS1TWjRQT3B1Rmg3YWJQWHdqNUpmREc5eHNfYlNTNkZ4bU95bm9EUVFFWDN0OXN6RHNVOWw3eGJaSDhpcXptdE9EWEg1cGlvQ29LcHIycFVCeXJfLUN0cERKSFVNVkdweTVNVDNRcnktZ0tsVXB2TjV3ZUhmamhodi0taGhtN0NCTkRlaVVVQUxWWUJlbjdoUjczYk5oRmx1TWs0V0xnV1NHTWNhUk9MTDFxVmpKRVE?oc=5",
+        "published": "Tue, 20 Oct 2026 19:30:00 GMT",
+        "source": "inkl",
+        "query": "Newcastle coal"
+      },
+      {
+        "title": "China Imports the Most Energy, But is Best Placed on Iran: Russell - EnergyNow.com",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3VnUEVxZTVaX3ZOS1ZlcG5lbjQ4cjRhMWVjSDF1cmFabnNQS0lxWms4OVBhZVlpai05YUM3Wkk3RTVqc2pFbXh6RTlGTTlMd1BZMUFKVkN4UF9ZUzhjR3liY1RINS1VYlJkU3Q2V3kxTnFyTmI3dUxKSEZaNWpxVEltWnBtSXRwbnducm9vM1MzSnN1QlZZWU91Yw?oc=5",
+        "published": "Tue, 20 Oct 2026 12:47:39 GMT",
+        "source": "EnergyNow.com",
+        "query": "coal imports China India"
+      },
+      {
+        "title": "Seaborne Coal Trade Grows 3% in 2026 as LNG Disruption Reshapes Asian Demand - News and Statistics - IndexBox",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVJZTmxnUG1ZQlZPNGJLcTliN1ZWM28yMk5HU1BFV1dSMXdYN3lvUGQxQVJiUHh1X2hQRVZPd3FiRERUMXBJazcwTkxHR2tYZF9CajhRX2ZGTjhveUE4aWdiNGJ3QXM2NW85RW55RDZzdkNyM2djUURiRUhiN1pGSE85LWRoZlY3YnBLWmM1OTBUajk1eFl2WTBtX2tnaTVYaVBB?oc=5",
+        "published": "Tue, 20 Oct 2026 12:32:10 GMT",
+        "source": "IndexBox",
+        "query": "coal imports China India"
+      },
+      {
+        "title": "Asia's Coal Prices To Stay High as Supply Drops and Demand Firms - Crude Oil Prices Today | OilPrice.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjB1WmpEYjA0X2RYUVUzV0ZxdjBWaEsya1VzYkljTVRkUTNYMGRhUlJUdlZLVFhsZmtLUVlHYU1La1JwYW5DVlgyUFhKMURpNHVYSEdfZ0VFczlrUV9wZzFfZENZVWo3VnI5TDNFTnpiZl9tUVczdGdrczE4M1FVVV9EQTRxcVVpOXEwMmtVV2ZlbW5CenY3UGNnMG5JbkdnQ0FBblhyWmlmUFRHaXMtWVN2TGtMYTBNTXo40gHAAUFVX3lxTFAydkhSTTE5dlFQQkRqcThNdkhreVl6MmEta2dxVl9Zc3JzYXFLUGw5QkRhTDJvaHk2YVYtbV9xaUkyX0FpTm5BSUZkYXR2Y1dURkhyR3lzMkNKSU96LUZWaVFEd0YxUGxIZzBxSXI2eTUwd1E2bzNOM1FwVmxaWFo1X29jUHRfdTFVNXdQdzFtcjk5VDkxQUd6NkVnUGFKZTM4TVRDdEd6a19oWVhhaDVDNWJQYzU1SzByVE1iQXpLbQ?oc=5",
+        "published": "Tue, 20 Oct 2026 12:30:00 GMT",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "query": "thermal coal price"
+      },
+      {
+        "title": "Seaborne coal trade rebounds as Asian energy crisis reshapes global flows \u2014 SMI DIGITAL - https://www.shipmanagementinternational.com/",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdmlVMXpNMERfdmhrZXFCSnNoZE9YQ3JadVh3X0EtYk5zRHZxd3k0ejAyNUVqUGg1bE4yY0xETzhYcVVYWVlvdEwxOUwtOFEyWUxJd3p4V2l4ZmF6dTZfeUExVEUxVmxkdjVOZUpJSk1SUXFGNl82NHRyclR2RXJWVDE0NkRsVDZMMmNZRjVLdDRPNjNBSGw0UjU5WG9TTlBLUVZGN2Q1V1YzVkhVemJQSXdCVHhURW5iOEtlQVhhV19OcUVSdUNVWndzUDNYb1dnc2NKRG1NM25laTh1d193bHJXT0hOXzlmMjJmck41RHdBZw?oc=5",
+        "published": "Tue, 20 Oct 2026 09:26:21 GMT",
+        "source": "https://www.shipmanagementinternational.com/",
+        "query": "coal imports China India"
+      }
+    ],
+    "Agri": [
+      {
+        "title": "Wheat falls to an 11-week low amid talks on the war in Ukraine - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjhrU0kteEYzTlVZanlQMGhjbHpHQi1LN05YUDQxalFxNklCT25hS2QydVhZWlpwTHBndDVmLUtWREUwVk02dlFPWDFCd1U3ai1ycFctODgxN09rd3lKRUEyeF96VlN1bWd4TkpwUlVCdTREQVFDZ1Rad2RRZUhfTWRuQldvYzJUNDJDZ0pn0gGMAUFVX3lxTE5vbVF6STVva0VLUzlEaUtOaU5XYzZuaW9zaTZZTkphblIwNUlRTUdMb0g5TnU0ZlZndTZPTEdZd3Q0a19jQVhJUHNRRE9ydy1HckVqRS11SDNoX3FCczFRMlRlTV9EVUliTTNhYk53QmFsN2o2ZmxfWVB0SVkyNzlkdjRDMjluRjI0N3Bo?oc=5",
+        "published": "Wed, 21 Oct 2026 08:32:39 GMT",
+        "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+        "query": "wheat prices Black Sea"
+      },
+      {
+        "title": "Soybeans Market: Futures Ease, Physical Premiums Hold Firm \u2014 CMB News - CMB News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUotenk2V2kzZF9qTDMzdmNZS3BPR3d0VURWb3p5ZTdOZVhlYm9LdUlTcXVQdTN4Z09ybEZ4SHNvRTRpa2tuNEVHbnFkSFpYNjdRUnpwV3ZITUtxX01BNlJIZ1c5N05JbHdLMVRZaDAxX1BCRG1pZXlORjhFYjhQanFrNzMzX1BTdndORkdHd3liUDZ2OXc5bQ?oc=5",
+        "published": "Wed, 21 Oct 2026 06:48:16 GMT",
+        "source": "CMB News",
+        "query": "corn soybean prices weather Brazil"
+      },
+      {
+        "title": "Barley Market Update: Soft Feed Prices and Black Sea Grain Flows \u2014 CMB News - CMB News",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOalFydGhrZHN0X1JLZnRfd0l5cHAzVS1BZzlEQjdxT25TOGRJTmxCeTlHS1doZkNXbjZGbUwyeEw1WV9xYmJWSmZHMk5Pd2tYNlRyTW85N3E2TC1hZmpqWDJtOVhiSlMybjd0eUJMWGVROVVHUkl1U3NBbF9PM09uUnY2VHZaRmdvOHZOYUlEMHJEUlhYSUR0RHVDZDNNcU4zYUVVenpn?oc=5",
+        "published": "Wed, 21 Oct 2026 06:43:04 GMT",
+        "source": "CMB News",
+        "query": "wheat prices Black Sea"
+      },
+      {
+        "title": "Wheat market under pressure from Black Sea exports, US planting lags \u2014 CMB News - CMB News",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3VlYTRsNXNneDNlQlhnaXRvQkVRS2hJUjZRVzcyUzdRcXhCWGtGMUhETTZZRXhtSUxrbm1QM3piQnpKcUlxZnlzWFhXclRXaFhscmlST1ZiY0NJaVhCTWxTbE1Ud3pYTmk1dkw4VXZTcUhMR21RMEtxVDVEZWN0a2Z0Y2d2ajV6TXpNUDZEYzNmYTExRkxCM3NDTQ?oc=5",
+        "published": "Wed, 21 Oct 2026 06:41:27 GMT",
+        "source": "CMB News",
+        "query": "wheat prices Black Sea"
+      },
+      {
+        "title": "Corn market outlook: higher US and Brazilian supply pressures prices \u2014 CMB News - CMB News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjFEcTV4cFowZ3d0Mm5pbEpOeUV1N1JJMzZnRmV5M1JuTXNwUm04Tzd2YVltalI1UHJON2JWcHJVdnNjN1JqNEpObHhmRTZiN3dmQmk3NkZUOGo4UThhRGdxSFJtMUdPMWVLU2l5RkF3UDhsWTlLQTJfZ3RoM0JVMWhJbUFjWnV0YnhmSFU4ZG43OUZsQm5uYWcxVVNncV96SFE?oc=5",
+        "published": "Wed, 21 Oct 2026 05:25:48 GMT",
+        "source": "CMB News",
+        "query": "corn soybean prices weather Brazil"
+      },
+      {
+        "title": "Bunge Stock And 2 Grain Shipping Plays Facing Black Sea Insurance Shifts - Simply Wall Street",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWFRPQUhvb0hrM3Vvc2ZMdTNPR2FBR21yMXdwajEtTmFrbzkxMnowc3lBWDF3VXJBR2NPWkJtNXAtbFpzaXEyd0xmLXpWbG5aM1QzT013c0lDUEIyQ0hnTE85ZzY3azBRZTEwQk1hcXZOdEtydmVHT2ZQNjEyTFIwZFpTX0VOZFJubDBIWkVNTVJ6N3RGaVhYYUZIMkREUDR5QUQyRXRvc3RDZEdVb2FoN3lSbGJNSUVtcVhES096ZzFNeXpmRkhUdVgtMGpyWTJEdng5MTRWZHFBcWZBRi03OVF0TGtqaUFMeXpFdzJFMHNYUdIB8gFBVV95cUxOWFRPQUhvb0hrM3Vvc2ZMdTNPR2FBR21yMXdwajEtTmFrbzkxMnowc3lBWDF3VXJBR2NPWkJtNXAtbFpzaXEyd0xmLXpWbG5aM1QzT013c0lDUEIyQ0hnTE85ZzY3azBRZTEwQk1hcXZOdEtydmVHT2ZQNjEyTFIwZFpTX0VOZFJubDBIWkVNTVJ6N3RGaVhYYUZIMkREUDR5QUQyRXRvc3RDZEdVb2FoN3lSbGJNSUVtcVhES096ZzFNeXpmRkhUdVgtMGpyWTJEdng5MTRWZHFBcWZBRi03OVF0TGtqaUFMeXpFdzJFMHNYUQ?oc=5",
+        "published": "Wed, 21 Oct 2026 05:14:26 GMT",
+        "source": "Simply Wall Street",
+        "query": "Bunge Viterra grain trading"
+      },
+      {
+        "title": "Chicago Grain Futures Close Lower as Harvest Pressure Hits Corn, Soybeans and Wheat - AgroLatam",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWZpUlhDTkthQTlwUmxhSzcyVzZJMHBEMzFqcXlSdzlQMTVwU2hjREtGMFFWSzJlWEt2b1k3b19mdkRfNGlZdmowREVfWnpZUTJiQW52WURzWUc3QVlxbWNBeHlicUVqUkhrOGgwSTVYODFDNDdyNzlrRjZmd2N0RFQyS3JHM1RiNEY5SEJGeUVaSmJ5eXQ4eGRxUWZBNERhYVdKMU9mamdmQ0VWdF9VN2U4bzBzdnBraWc?oc=5",
+        "published": "Tue, 20 Oct 2026 23:18:19 GMT",
+        "source": "AgroLatam",
+        "query": "corn soybean prices weather Brazil"
+      },
+      {
+        "title": "Grains Free Fall on Harvest and Technical Selling: Cattle Make Near Term Highs - AgWeb",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUENrREE5SExtQW9wdHlJNWl2RmRJc19UZzA4djhzX2NQNnQyU05KY3RmdFoyUVNXWFJhbHlSS0dhazkxVXExTF8zX2pjUzloSWNCSnB1cnc4VVMwemhXTUZTMTRELXVXdGluYm8tZng2UWc1UGZJbk1nUXlDMjNRZ0ViM244VlhQMnl0NnNPQXdIblBVTHJKTXZjRm1Ud2duNkdtbFVSSDhCT0pDLUNnU1NSYkVJWmVEamlCcA?oc=5",
+        "published": "Tue, 20 Oct 2026 22:20:00 GMT",
+        "source": "AgWeb",
+        "query": "corn soybean prices weather Brazil"
+      },
+      {
+        "title": "Russian attacks on vessels, multimillion-dollar losses, and a threat to global grain prices: the European Parliament explained how the Black Sea will be protected - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPa20yUzlvcGJvY2VPUTc5SzVZMTBaT09wQ1JBVlhVenBnYzZ5a094VDc0Y3ptSld3UFpoT0hvWEd0SE00d2pzQ3p5UHJIaTVMMkYzdmJOQUNlOE9WOTJIb3o0dXVrNDZHd2ZSWmJRZGNEb3dsdVlhRXVxdXQ3SFYyUW5hdHZMSnlBRXVIYVNBT1FWQ2w1OUpJWm9FanRsbExOd3EyX1RrcllpSUdlek50VG9kNzdjMG5qMERqdjJtTWVnZmhBOHc4UnExY0RScm1WYldfTGFYMHJNXy1fc1lHTjZjRVlfcFFVeW1qQTVMNEtkUjktaWlfZk95cDhJQXEwd3RvQ9IBgwJBVV95cUxPQkFuMWJwMTlvMkR3ZFZXYkdvUjU1VXVrWU1PdTM1WmZPTE9MbkVISC1nbVNvemJWeHhTUjNPSEFmMHZGeHlSdUxPZlZtR1BtU1RJTjgtdzl6MmpqNklUUGhfVFRsTjRsbDVFejF0RzNCLXBUdDJycTQxeG1tbmpLc2JXZFhFVEgwa05YcTVtOGZCYVVrdDlzSHU0X2VIX1dqNjRqdXd0c0dEalJKS0pqVXNsRF83RDA3TUtURnhrbG5JMFRnTWtJZFpab2licVRta0pxUzh6cU9COTNuaG1YbExGemh5OEpnNXJUVGY5VzNOb1lBY3RzdmFjQ3l1Ty1VeThj?oc=5",
+        "published": "Tue, 20 Oct 2026 17:50:06 GMT",
+        "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+        "query": "wheat prices Black Sea"
+      },
+      {
+        "title": "Latvia Identified as Top-Five Importer of Russian Grain - Maritime Logistics News",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlprd18xSzdZN1VtZ3ZlLVlieWNCamhLUjM5bXUxUU93c0hqaGRibHZpa2hSVUtSdDNsbHpwZlBiWVRvQkZlMkxVaHRuelJZbDY5MFJyTUIzVjJqOWw2Z3VZU2dwUUhJYmN3SERoREpEUFIyQW4zQmRvdzkzQlhhelVLUDlUYWZBRm92OTVkVGk0M1VaNnZ30gGXAUFVX3lxTFBCWmt3XzFLN1k3VW1ndmUtWWJ5Y0JqaEtSMzltdTFRT3dzSGpoZGJsdmlraFJVS1J0M2xsenBmUGJZVG9CRmUyTFVodG56UllsNjkwUnJNQjNWMmo5bDZndVlTZ3BRSEliY3dIRGhESkRQUjJBbjNCZG93OTNCWGF6VUtQOVRhZkFGb3Y5NWRUaTQzVVo2dnc?oc=5",
+        "published": "Tue, 20 Oct 2026 17:22:24 GMT",
+        "source": "Maritime Logistics News",
+        "query": "wheat prices Black Sea"
+      }
+    ],
+    "Macro & geopolitics": [
+      {
+        "title": "Oil\u2019s Return to $110 Boosts Fed Hike Expectations, Pressuring Gold for Fourth Day Toward $4,100 - TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0FJLW41eE15dUZiaE56VE54Z2JVQjh4cmREM0phNnFGclZBYWExazd5cmpTTXNfWHBnVmJKMlc5VmUwYTdvRXlYR0Nld0lJU2NTUy1kTGtVY3owZko1T3JZVDF1cWhwc1ZmRjhxX1l5SW0tQ3pjZ2UwLTFrMU1pZUdiZFdNdlB5ZUd0b1prU0NDeE4wNkc5dDJ3cEJmWi1EMmplV21TeFRsajY4VzdFWlNIanQzaTVtTllTeTlIQnFGZm5iZXZCbkFHMm1aOG8?oc=5",
+        "published": "Wed, 21 Oct 2026 07:40:03 GMT",
+        "source": "TradingKey",
+        "query": "Federal Reserve rate decision commodities"
+      },
+      {
+        "title": "US Dollar Price Forecast: UK CPI Hits 3.5%, DXY Eyes 102.01 as EUR/USD, GBP/USD Split - FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeV9vY0dJTDhlTzNSbTBOS1lKeU5rWGhKT1d6WG5Zb0xkcjNQSjE4YmNYcEZvWDMydHZnZVVGQUFUcDVWakFpZ0s4VFlVQ0NKLUQzSE1oWnFzVEZ4eDRRN29ycURWaWlpVmVLcE0xOExlLS1XVkEyRGlUSVpxZ3dZRGgtRlFLQ1M1UC1Lb0gzTy0xQUoydDY1OUJ5SXotdXUzeUFuUTRBSjl0cUNoRzh2dGtZRzBMaGxxdGN4UTFvZG5YdGw0S3dIa0ZoaDk?oc=5",
+        "published": "Wed, 21 Oct 2026 07:30:00 GMT",
+        "source": "FXEmpire",
+        "query": "US dollar index commodities"
+      },
+      {
+        "title": "Asian Stocks Rise as Wall Street Gains, Corporate Earnings Improve - Global Banking & Finance Review",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMEhwRXRmUE1tNW1pZGwtNEEyRjlhS012SnlXY3V4ZzdpeXdmLUJhSkJ1NGpWNks4aFNJZDFuSUtEbHh3eEdQOWM1X1liWmdkRTJxamtYTlhDN1JiblFQcVk5ZXJvTkIybnRmNDFHODBCU0w1S1ZTSU5lZ3pjbGFwNU1mcmlLLXZxOWcyZmdmakZPeHU1c2xR?oc=5",
+        "published": "Wed, 21 Oct 2026 07:22:02 GMT",
+        "source": "Global Banking & Finance Review",
+        "query": "Federal Reserve rate decision commodities"
+      },
+      {
+        "title": "Dollar treads water as Middle East tensions simmer; Aussie buoyed by hawkish RBA - Global Banking & Finance Review",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGN3R1NxY05jbXdLeko1TmJ5MXFOc1RkbmdvRVU1OW91Y09Ba295dmJDbG9oeUFiU0Ntei1rRGRxaVpLeEFsR2p6a2VKdFJhbEtZSkJCX2xhQkVlbm9rdzBXVnRqLWZiYWJUZjlNcGdEbzViWVk3QUZaeVF0SHZnSnNvaTZScnZWeFJYVnJJTjhNZmhzNGJrbG1mSWxpZUk?oc=5",
+        "published": "Wed, 21 Oct 2026 07:22:02 GMT",
+        "source": "Global Banking & Finance Review",
+        "query": "US dollar index commodities"
+      },
+      {
+        "title": "Silver Gains As US Treasury Yields Ease Near One-Month Lows On Weak Housing Data By Kedia Advisory - Investing.com India",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWlR4a0NDWkdDQksyZW1EMUxzX2t0QVRCVHRJZ1lXYXlDckR6U1ZtY0U2RDN6d0ktTnhJNGN6aTZ2TzJwMnZvaFBqUE9iNXJfV3RfWWpWbDRHaWRiZXNNN2dFRnBibzdPWGx0VEJvV21ucXByRGVZVmN1dF80ZXl6SjRuYWtiYzNYbFAwR0dpalR3S0cyOUpXRUtuZW90RTNidmNMcXJqbFRRSl9JV2xZZzhTcGg0QmJTdmNtMUFqVDMyWUpLOXQ3a0k5aDRQTnM?oc=5",
+        "published": "Wed, 21 Oct 2026 04:11:33 GMT",
+        "source": "Investing.com India",
+        "query": "Federal Reserve rate decision commodities"
+      },
+      {
+        "title": "Gold slips as investors await Fed rate signals - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaHkxMWpUNnhzOVpXTlF4OXlUTVdDcEVyLUtsb0ZxQmYtcG5ZOWlnY3RWQlY2d0k5UklWTmp1Rmw3V3JTU3BxOE1ldzFPbjNmOV85dDhneFFjcXpsUzBBSEdzaW5oc2VHLU1DcWdnQjNiWFpKeDZRVVlhSDdfWU9NQmdyZm52R2RTbEUyeFdEWU84b3hJVGQ1WVJOcE5WOU56eU9jcEwxSm5HZXppNWs3ekxYTGgzZXRXdHUwekFabHFReVHSAcgBQVVfeXFMTWpSdzlhdF9RbmpITFRjZG5NM3JrZ3dWbHRtR2NBM3d5RkhqdVFkTEJrRUN6NTNIcXFhaEM2Rzk4TXphTUl0cGZPMThVSWtIU2c3Ri03OGlkaE44SVhMa1FpcXUwT1J5NklkbUc5QlUwa0RPTmx0RXRDVkhWdDMxWnBrRWczalYteV9NdVlVOXRIeVZ4QkotWGdJMU5ETmVXZnJHMTBWbzBuWFUzQngtakJCb29XOFF1NmFwVm1zckoxQmJxVFJCS1A?oc=5",
+        "published": "Wed, 21 Oct 2026 02:09:30 GMT",
+        "source": "The Economic Times",
+        "query": "Federal Reserve rate decision commodities"
+      },
+      {
+        "title": "HighMarkets Review: Spreads, Fees & Regulation - Forextraders.com",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jOGVrd0FWd2xidjZXMEVKbjEzRldYRFpSWmNldmFSR3liQmdpNWtabldHbHcyNFZzbHJ0MUNtRFhDUDMwY0pTRW1Makl6QjNTS2I4Tnpodw?oc=5",
+        "published": "Tue, 20 Oct 2026 19:37:50 GMT",
+        "source": "Forextraders.com",
+        "query": "US dollar index commodities"
+      },
+      {
+        "title": "Outpoll Expands Beyond Prediction Markets With Crypto Futures Trading - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNlNzVUdONWU3RldUdk5LN01WVHFiMmxOay1aSkZQOWNyNmZNTThUNDBqdFJfcXliSXlqa3ZBV1ZZNktUcWV1WjFpLUJ4TERsN09VSnJ1bTdiRTlpakZqRXMyTTJlWGZDZzlRTTNQVG9uRWFLbHNOV0FnazlaT2RrU3hXalpjQzdpdFpJckxKdXZiek1vRmN4YzZYdHRmUHd6cTZETGcyV2R0aXNLczJhMjZMYVFkVG0zd0o3Z1B1T3hPUXEtVkNHcQ?oc=5",
+        "published": "Tue, 20 Oct 2026 17:45:51 GMT",
+        "source": "TradingView",
+        "query": "Federal Reserve rate decision commodities"
+      },
+      {
+        "title": "Commodity markets diverge as oil outpaces cracks in copper, gold - BofA (DBC:NYSEARCA) - Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUXUxZU0yT3hVTloxaDlDaW1kX01Ic0tZYWNiWXh6LVlCRmZlN3EtcV9ldzlSQlMyYUF1U3h4OVc3VklLT2RfYzBwcGNBOUFMSTd3M01UYV8weWFIc0J2dlFmcy15OXNEbTNvNGFuN0h5Z0NWOGI5akpfTHVublJ5VWtrZnlhMU03WDhCcFE1YUxGa1lPd05WNy02REtmZXFBWlp3NENZdUVFalI3?oc=5",
+        "published": "Tue, 20 Oct 2026 16:19:38 GMT",
+        "source": "Seeking Alpha",
+        "query": "US dollar index commodities"
+      },
+      {
+        "title": "Rates Hit Multi-Decade Highs. Will Growth and Earnings Keep the Rally Going? - ETF Database",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sU0Uwai1SUHNSdnJvUzJ0SlNpMnhZNzVnWG1JUnBYSVp5Y09LWmJNZ2xUZFdUcFhpMm5KaEhOREptUXZvcEZSNmhITldsYkNTRmlWSGo4Uk5Gcy12anJCQTJWYTdiX2drU1o0OHk2TGNXVUwzTHF6SzB5QzAxU3c?oc=5",
+        "published": "Tue, 20 Oct 2026 14:53:29 GMT",
+        "source": "ETF Database",
+        "query": "Federal Reserve rate decision commodities"
+      }
+    ],
+    "Glencore": [
+      {
+        "title": "Glencore Derisks Copper Expansion Strategy with Land Access Agreements in Peru, BofA Says - marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVFl5c2JueUVYaUhGLTF2U0ZEODhXQlIxbk1mMWlKSFhDd2dpSnBVRUg3T3A1NS1memlkSjNBS3pHVDlRYUZqbnFtRzhlLXNKbFh0aGtwZXAwMkJLbWRpUkpqS1Y1XzRyQWZOUjktVUhVb1pZSjRkUVFiRDBmYjhyeDNwMFdjX2drVVdnR3VXT2prWlliOGFhWkdRTVpKaXNCbzc5dUxqLUlqclhpZWFfcV9SRC0yd1hPczJuMW1BanVzMUNOMjZsSEhiMnlucVBhRHhOUkJwUGo?oc=5",
+        "published": "Wed, 21 Oct 2026 07:36:32 GMT",
+        "source": "marketscreener.com",
+        "query": "Glencore"
+      },
+      {
+        "title": "Expert View: Glencore, M&G, Genuit, Bunzl, and Wickes - Citywire",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGQxRjBQS1FhR2d5TEZ4Y2hrcDhGb2hweldZbUFVUHpldWNnNVFWY2RRWFlkVmNoOWpJVExxalpDMUIzTWpQal9kcVFxX2N0UnFRSHJzb1FFcDdLZ1pEQ1ZOdW1qTnZsWWdXWmNUd0Myb0xGeTZITFJvMG1rTXJiNlBHVWJMWUhONG1zT3I2ZU9RM3RvZ29wbXFOSnRnVTF3T1kzUW1hS083M2dxSTFBRFhB?oc=5",
+        "published": "Wed, 21 Oct 2026 06:11:15 GMT",
+        "source": "Citywire",
+        "query": "Glencore"
+      },
+      {
+        "title": "Glencore achieves land access for the Coroccohuayco project at Antapaccay - Cyprus Shipping News",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkFpTVktNUlZbklhQkhILW5GQi1hdHVKWmFIaUtuYktsSi0wV25BdDJXaEdJcWt0ZmdHTHNXX2pZOGlseF9FQkNOT2FRVVFtVEpCSkU2ektQX09xS1VMTWlPREIxT1pIWVdvSUdOZXZTLVZ4NHM3LWpOdHJJOG8yLVAzQUVIS2dlVGtSMnllS3BkWWFncGpwQzZkNkVLUEIzOWpuRmRlNGttNGNRdnh3TnZablVfeFU?oc=5",
+        "published": "Wed, 21 Oct 2026 02:47:09 GMT",
+        "source": "Cyprus Shipping News",
+        "query": "Glencore"
+      },
+      {
+        "title": "Glencore\u2019s Energy Trading Profits Soar on Iran War - EnergyNow.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGFzX0JwYXRfbTBEVU05ZTU1eFcyZ05sdEEtT1UzZmQyTjRFUm1jdjk5NVp3SUdQYnp3Y0lQdDlPYi11bW5zMjl0SmRTYncyZTk4ak9fS0laREVsMGNRc0xiUE51RnR2V2N3Zk9MQVctRk1FMGxpT3hmTnRWWnkyM0FkS3pucnM?oc=5",
+        "published": "Tue, 20 Oct 2026 21:26:26 GMT",
+        "source": "EnergyNow.com",
+        "query": "Glencore"
+      },
+      {
+        "title": "Glencore clears key hurdle for Peru copper expansion - Mining.com",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTFZUSlFvRWhGVEJ2MThibjREUHhETWRycW5jM3VhR292LVlfelI0cmJsTXZJemFONjdXcEdTNnM3QUdxTEZFQTBtdjVPRHRBVzBmTHkxbW5LTnVpUWtnUEd2a2VEcC1FVTAzbnBKeGI2TFFJcXZlUnhKa0VkOVlobUd3?oc=5",
+        "published": "Tue, 20 Oct 2026 17:33:13 GMT",
+        "source": "Mining.com",
+        "query": "Glencore"
+      },
+      {
+        "title": "Glencore backs project to reopen Cornwall tin mine - The Times",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUExJMkxQMl91SW5OeWlaTTN0azFUUTNiR3Q0NlpDbWpRWUdNeWpndC00WWc3a3hoOWlPM2dsb2pwZDhuUGwxUUlsTWxUQi1zWW1oVXZRQjZrMVFMS1pKRUxtRHE1R3lVLW8wc0toTEhzbEZpMHdNcEEtOURZUGJ5cDhEa2l0RURQRVU4bmktLW0yTnR3Nkhzb0duQ0pZUDJ4QkdLNzg4WlhiTVpyZHFzTw?oc=5",
+        "published": "Tue, 20 Oct 2026 15:30:00 GMT",
+        "source": "The Times",
+        "query": "Glencore"
+      },
+      {
+        "title": "Cornish Metals launches \u00a3135m fundraising backed by Glencore to advance South Crofty tin mine - Share Talk",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaC1WS1l2QU05YVljdWxuQW40NlhnaEdPRFFlLWl2VjVOLXlWbm9tbGI4eUJQR2xZbTllTXk4QndVM0d5eTdrTVQ0LXJONGowWG1UeG9nWFdGWEplRG91VjFCQ0JaNC1NRF8zRWpjTVFKNXlsSUVtQlhCc3pGM3U1OVAtTTdRUm82aEE4bDFmN2dPcG8wMXhaQ0RaVUZvUERfa1NoVU5fRU4wTWN4YWU0NUJyZThGOXQ3eGNlZw?oc=5",
+        "published": "Tue, 20 Oct 2026 15:02:31 GMT",
+        "source": "Share Talk",
+        "query": "Glencore"
+      },
+      {
+        "title": "Glencore plc (GLEN.L) stock price, news, quote and history - Yahoo Finance Australia",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aTmpyN19DT1B2U2U5OE5MNl9FV2xJLW5KUENHakVCTFRCSVZJQVpxallTRC14YVZvOEozLWJQZHFKd3lPWXY3UnA2eXVCZzU1TWVfZQ?oc=5",
+        "published": "Tue, 20 Oct 2026 12:48:02 GMT",
+        "source": "Yahoo Finance Australia",
+        "query": "Glencore"
+      }
+    ],
+    "Trading houses": [
+      {
+        "title": "\"Aluminum King\" Returns to Copper: McNess Bets Big on Front-Month Contracts in Wager on Trump Tariffs - BigGo Finance",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11YjlHNG5aUU5PZkYtWUVKbkF3V2duZUdWbE1ORnBMb3pnbHZoS21SQnJNVHNFZkU3VllYZXFzU1B0UmZ0YTlJQ1QtdUdDNDZfaWU2XzBBRXNoT0d1U25BTkdSMU1DV1NnaUV4MC1zSVN5NWQyVVE?oc=5",
+        "published": "Wed, 21 Oct 2026 00:35:00 GMT",
+        "source": "BigGo Finance",
+        "query": "Trafigura OR Vitol OR Mercuria OR Gunvor trading profit"
+      },
+      {
+        "title": "Trader known for big aluminum bets is back with wager on copper - Mining.com",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYWlpa2FaQVZtY1BNUUJDbVFyNG0wZEJhSWpYUVRJQmtMTzdsODgwMU5qUFRzTGU4Q3BXMlQwd1hzS082UmJ3TDdrTEZfTlRWSGdUaVhkdUZaTktQVDRuc0VFdExkcW1DZXA3T3VwZTItRGdMZHJWV3JMajhNNkEyQlI4d1FreVZPSXc4TWltN2twb2JzdVE?oc=5",
+        "published": "Wed, 21 Oct 2026 00:09:21 GMT",
+        "source": "Mining.com",
+        "query": "Trafigura OR Vitol OR Mercuria OR Gunvor trading profit"
+      },
+      {
+        "title": "Glencore\u2019s Energy Trading Profits Soar on Iran War - EnergyNow.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGFzX0JwYXRfbTBEVU05ZTU1eFcyZ05sdEEtT1UzZmQyTjRFUm1jdjk5NVp3SUdQYnp3Y0lQdDlPYi11bW5zMjl0SmRTYncyZTk4ak9fS0laREVsMGNRc0xiUE51RnR2V2N3Zk9MQVctRk1FMGxpT3hmTnRWWnkyM0FkS3pucnM?oc=5",
+        "published": "Tue, 20 Oct 2026 21:26:26 GMT",
+        "source": "EnergyNow.com",
+        "query": "Trafigura OR Vitol OR Mercuria OR Gunvor trading profit"
+      },
+      {
+        "title": "Venture Global\u2019s Quarterly Core Profit Nearly Triples on Higher LNG Sales Volumes - EnergyNow.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcE9pRC1ianBWZi0wa1RYSFdNTG5YQ1pEZk9XMEprYXVXS1UybWREeF91a0kzbk1fQWJ5UUt4c1ZpeGJQdkVOYXNZS2ZJU0tkeW1tMmlzVjktR19LeW5xRTNva1VsaTVISDdfZW9GWnZvWnBVS0dOdnJnTlF0ZHM2Z2NWREk0YTlVWTFmakR4SXVpRkx1bERBUkFoU3ZfT2RqbTBIMnBQRjlwNXlaLWtWRA?oc=5",
+        "published": "Mon, 19 Oct 2026 16:38:35 GMT",
+        "source": "EnergyNow.com",
+        "query": "Trafigura OR Vitol OR Mercuria OR Gunvor trading profit"
+      },
+      {
+        "title": "Exceptional ex-Goldman Sachs trader has big friends and awkward enemies - eFinancialCareers",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zb2RyUnJDRkZBR3Y4U0hmSnc4X283WjlZQnpWNFFVVngzWW9wVUUxWGxacnViUXBrRlFqUVowMjFZZm5MRS14aHFyc3o0ZUdVV3IzV0NwdnI3ZXJjbDVXRkZPZ0R5TDA?oc=5",
+        "published": "Mon, 19 Oct 2026 09:59:26 GMT",
+        "source": "eFinancialCareers",
+        "query": "Trafigura OR Vitol OR Mercuria OR Gunvor trading profit"
+      },
+      {
+        "title": "BW LPG\u2019s trading profit jumps to $164m in \u2018volatile\u2019 markets - TradeWinds News",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdUIwRF9NeGJoUWRFLXZtVkZSUkhPb0ZtZ1FieG16c2hWU0QyT1dDaWNVOTkzU2htQ3E1czZMNV8wRmp2U0dZMkozbjRmRTZVRjdVa3h2YzJsWGhzQTYyRk4xalM0R0FDMlZaUVJlc1ZvbHgyREtiNy03bHh2elB6bS1Dem1YZ0JmdVV0aVFFdV8zZ0ZwTWpCd21TZE9Za0tRYk5xMGNFdw?oc=5",
+        "published": "Mon, 19 Oct 2026 05:38:43 GMT",
+        "source": "TradeWinds News",
+        "query": "Trafigura OR Vitol OR Mercuria OR Gunvor trading profit"
+      }
+    ]
+  },
+  "errors": []
+}
